@@ -7316,6 +7316,11 @@
                       "hash":  "18622e116ad6bd545f881ea467f2e41f"
                   },
                   {
+                      "size":  27,
+                      "filename":  "platform/update_test_marker.txt",
+                      "hash":  "0fae8bf7ecad893f5b1f880bc4d58bb8"
+                  },
+                  {
                       "size":  276,
                       "filename":  "platform/config/AuthToken.vdf",
                       "hash":  "2dd7d7d48c8bb130f18f10a17c01a56a"
@@ -25606,6 +25611,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
