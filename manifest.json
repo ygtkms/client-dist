@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  1399296,
+                      "size":  2971136,
                       "filename":  "cstrike.exe",
-                      "hash":  "fb754f883f8eabeeecf39020c7ce1cad"
+                      "hash":  "eca2e400610195215849e920cd4354bd"
                   },
                   {
                       "size":  138152,
@@ -289,11 +289,6 @@
                       "size":  12190,
                       "filename":  "cstrike/delta.lst",
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
-                  },
-                  {
-                      "size":  81920,
-                      "filename":  "cstrike/demoheader.dmf",
-                      "hash":  "d3753b83b93934fac20c5d3bc6c783c6"
                   },
                   {
                       "size":  4410248,
@@ -753,12 +748,12 @@
                   {
                       "size":  313856,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "0f1ffad692da144e9cb20f43e1905704"
+                      "hash":  "333c1da0f5e64402189115a0b004f9a6"
                   },
                   {
                       "size":  2069504,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "6fcbf055ce2c8e4fd9b7ff4afec92e4b"
+                      "hash":  "c8db5e59c740f78833e321baedc87107"
                   },
                   {
                       "size":  1961732,
@@ -3701,9 +3696,9 @@
                       "hash":  "54ef73d55343def6b7d7b039699a93ea"
                   },
                   {
-                      "size":  18836,
+                      "size":  17782,
                       "filename":  "cstrike/resource/TrackerScheme.res",
-                      "hash":  "d623d89fd63dc750a7da9f540c1c60be"
+                      "hash":  "f9262ccba0f7e090002aef800dc13a8b"
                   },
                   {
                       "size":  5968,
@@ -3783,7 +3778,7 @@
                   {
                       "size":  15923,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res.i",
-                      "hash":  "0f09930506164f1c412c5ff6f3ee046b"
+                      "hash":  "49270964b64728e44de87507b779e625"
                   },
                   {
                       "size":  19184,
@@ -6858,22 +6853,22 @@
                   {
                       "size":  45056,
                       "filename":  "htmlcache/data_0",
-                      "hash":  "910ccaa77f27f9a8cd7f29b97fa36aad"
+                      "hash":  "ceca41d2eeee5b6a6c8417aeff278f70"
                   },
                   {
                       "size":  270336,
                       "filename":  "htmlcache/data_1",
-                      "hash":  "836371017fafdc4a3916c54f0d0d408d"
+                      "hash":  "e9b58709959b8663a8b73734e332cd5f"
                   },
                   {
                       "size":  1056768,
                       "filename":  "htmlcache/data_2",
-                      "hash":  "86473cfb63e5eb869ce6989b6b989198"
+                      "hash":  "2f46f21964cce56a1ccdcd404fb33c38"
                   },
                   {
                       "size":  4202496,
                       "filename":  "htmlcache/data_3",
-                      "hash":  "40b7fdcbfc0938bb3a1e29b0aaf05da4"
+                      "hash":  "ef4e54bf7ce15986e7289ff98b37af0b"
                   },
                   {
                       "size":  1898897,
@@ -7308,7 +7303,7 @@
                   {
                       "size":  524656,
                       "filename":  "htmlcache/index",
-                      "hash":  "a7d617af03c966a055a0311a37d7ae0a"
+                      "hash":  "4d9c615758364b7110eae4b70c6c716a"
                   },
                   {
                       "size":  34,
@@ -7319,6 +7314,11 @@
                       "size":  65,
                       "filename":  "platform/mmb_home_page.html",
                       "hash":  "18622e116ad6bd545f881ea467f2e41f"
+                  },
+                  {
+                      "size":  29,
+                      "filename":  "platform/update_test_marker.txt",
+                      "hash":  "2df4eb9fa040c972ca6b2f626790d922"
                   },
                   {
                       "size":  276,
@@ -7874,11 +7874,6 @@
                       "size":  129636,
                       "filename":  "valve/cached.wad",
                       "hash":  "06d662404f9d25b21b4218088c66680c"
-                  },
-                  {
-                      "size":  1804,
-                      "filename":  "valve/config.cfg",
-                      "hash":  "6cfb6694c5238f1470d278e0f9a66b2e"
                   },
                   {
                       "size":  549,
@@ -25616,6 +25611,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.0",
-    "hostname":  "https://raw.githubusercontent.com/KULLANICIADI/client-dist/main/files/"
+    "version":  "1.0.1",
+    "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
