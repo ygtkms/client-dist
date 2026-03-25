@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2971136,
+                      "size":  2978304,
                       "filename":  "cstrike.exe",
-                      "hash":  "eca2e400610195215849e920cd4354bd"
+                      "hash":  "92f4e19fcd6f070de11fd64168c0ad5e"
                   },
                   {
                       "size":  138152,
@@ -3778,7 +3778,7 @@
                   {
                       "size":  15923,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res.i",
-                      "hash":  "49270964b64728e44de87507b779e625"
+                      "hash":  "97726d630ef833ca7493ded142b2372b"
                   },
                   {
                       "size":  19184,
@@ -6853,17 +6853,17 @@
                   {
                       "size":  45056,
                       "filename":  "htmlcache/data_0",
-                      "hash":  "ceca41d2eeee5b6a6c8417aeff278f70"
+                      "hash":  "fb4c73bdbff3056d0103b70d48ee6cc7"
                   },
                   {
                       "size":  270336,
                       "filename":  "htmlcache/data_1",
-                      "hash":  "e9b58709959b8663a8b73734e332cd5f"
+                      "hash":  "19c20511958111916984258087552204"
                   },
                   {
                       "size":  1056768,
                       "filename":  "htmlcache/data_2",
-                      "hash":  "2f46f21964cce56a1ccdcd404fb33c38"
+                      "hash":  "037af9c4f268832879a7fd30bb1d4f48"
                   },
                   {
                       "size":  4202496,
@@ -7303,7 +7303,7 @@
                   {
                       "size":  524656,
                       "filename":  "htmlcache/index",
-                      "hash":  "4d9c615758364b7110eae4b70c6c716a"
+                      "hash":  "fa8521debd93c5c1df1aeca0cf4c7eb1"
                   },
                   {
                       "size":  34,
@@ -7314,11 +7314,6 @@
                       "size":  65,
                       "filename":  "platform/mmb_home_page.html",
                       "hash":  "18622e116ad6bd545f881ea467f2e41f"
-                  },
-                  {
-                      "size":  29,
-                      "filename":  "platform/update_test_marker.txt",
-                      "hash":  "2df4eb9fa040c972ca6b2f626790d922"
                   },
                   {
                       "size":  276,
@@ -25611,6 +25606,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
