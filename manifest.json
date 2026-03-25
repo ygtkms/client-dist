@@ -43,7 +43,7 @@
                   {
                       "size":  2978304,
                       "filename":  "cstrike.exe",
-                      "hash":  "92f4e19fcd6f070de11fd64168c0ad5e"
+                      "hash":  "f9b5e96e436eaebccbfbe74561f2b44a"
                   },
                   {
                       "size":  138152,
@@ -3778,7 +3778,7 @@
                   {
                       "size":  15923,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res.i",
-                      "hash":  "97726d630ef833ca7493ded142b2372b"
+                      "hash":  "e92e8320d6a46dc24ca69c2ffa356de3"
                   },
                   {
                       "size":  19184,
@@ -25611,6 +25611,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
