@@ -3776,19 +3776,9 @@
                       "hash":  "acd1fc7a28b27b3ccdf6a2a3100a4c1b"
                   },
                   {
-                      "size":  15923,
-                      "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res.i",
-                      "hash":  "e92e8320d6a46dc24ca69c2ffa356de3"
-                  },
-                  {
                       "size":  19184,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_Source.res",
                       "hash":  "9fcd7f2976b0d649b1272c89be9d215d"
-                  },
-                  {
-                      "size":  16228,
-                      "filename":  "cstrike/resource/schemes/TrackerScheme_Source.res.i",
-                      "hash":  "52a05b841ccd914516a76f4e51aeb5a3"
                   },
                   {
                       "size":  2241,
@@ -8019,11 +8009,6 @@
                       "size":  166,
                       "filename":  "valve/valvecomm.lst",
                       "hash":  "387342d19832af32c980043baeda1860"
-                  },
-                  {
-                      "size":  0,
-                      "filename":  "valve/violence.cfg",
-                      "hash":  "d41d8cd98f00b204e9800998ecf8427e"
                   },
                   {
                       "size":  6514528,
@@ -25611,6 +25596,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
