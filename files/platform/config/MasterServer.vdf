@@ -1,0 +1,28 @@
+"MasterServer"
+{
+	"Selected"		"2"
+	"CacheServers"		"false"
+	"Servers"
+	{
+		"Steam"
+		{
+			"address"		"hl1master.steampowered.com:27011"
+			"site"		""
+			"region"		"0x03"
+			"QueryDelay"		"2500"
+			"NextRequestDelay"		"2500"
+		}
+		"Tsarvar"
+		{
+			"address"		"ms.tsarvar.com:27010"
+			"site"		"https://tsarvar.com/"
+			"region"		"0xFF"
+		}
+		"YGA"
+		{
+			"address"		"37.114.34.127:27010"
+			"site"		""
+			"region"		"0xFF"
+		}
+	}
+}

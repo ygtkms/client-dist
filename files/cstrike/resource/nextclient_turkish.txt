@@ -1,0 +1,62 @@
+﻿"lang"
+{
+"Language" "Turkish"
+"Tokens"
+{
+"NextClient_Downloading_Files"      "Dosyalar:"
+"NextClient_Downloading_SlowSpeed"  "Yavaş hız tespit edildi"
+
+"GameUI_GameMenu_RandomServer"      "Rastgele sunucu"
+"GameUI_GameMenu_Help"              "[Oyun yardımı]"
+
+"GameUI_Miscellaneous"              "Çeşitli"
+"GameUI_ColorScheme"                "Renk düzeni *"
+"GameUI_MiscellaneousNote"          "* Bu ayarı değiştirmek oyunu yeniden başlatır."
+
+"GameUpdater_BranchUsage"           "Command Usage:
+[color=0,255,21]branch <branch name>[/] - rebuilds the client for the specified branch (the game will be restarted)
+
+Current branch: [color=0,255,21]%s1[/]
+Available branches:"
+"GameUpdater_BranchName"            "[color=0,255,21]%s1[/]"
+"GameUpdater_NoBranches"            " [color=255,200,0]not available[/]\n"
+"GameUpdater_BranchNotFound"        "Branch [color=255,200,0]%s1[/] not found\n"
+
+"Cstrike_LegacyKillFeed"            "Old style of kill feed"
+
+"ServerBrowser_UniqueTab"           "Unique"
+"ServerBrowser_ServerDesc"          "Server description"
+"ServerBrowser_RequestingPlayerInfo"    "Requesting player info..."
+"ServerBrowser_RequestingServerInfo"    "Requesting server info..."
+
+//
+
+"GameUI_CrosshairDynamic"           "Dynamic"
+"GameUI_ExtraSmall"                 "Very small"
+"GameUI_Crosshair_Cross"            "Cross"
+"GameUI_Crosshair_TShape"           "T-shape"
+"GameUI_Crosshair_Circle"           "Circle"
+"GameUI_Crosshair_Dot"              "Dot"
+
+"GameUI_AdminPassword"              "Admin/VIP password"
+
+"GameUI_White"                      "White"
+"GameUI_VoiceOverdrive"             "Multiplier for muting other sounds when using voice chat *"
+
+"GameUI_VideoAdvanced"              "Advanced video settings"
+"GameUI_VideoAdvancedBtn"           "Advanced..."
+"GameUI_FovFix"                     "Adjust FOV for widescreen"
+"GameUI_FovAngle"                   "FOV angle"
+"GameUI_FovViewModelAngle"          "FOV angle for view model"
+"GameUI_FovLerp"                    "FOV changes smooth time"
+"GameUI_DisableMultitexture"        "Disable multitexturing"
+"GameUI_StretchAspect"              "Stretch aspect"
+
+"GameUI_DownloadingResourceListOverrides"   "Downloading a list of private resources..."
+"GameUI_DisableAutoOpenServerBrowser"       "Sunucu tarayıcı otomatik açılışını kapat"
+
+"GameUI_ServerBrowserInitialTab"    "Sunucu tarayıcı başlangıç sekmesi"
+
+"GameUI_KB_Look_At"                 "Inspect weapon"
+}
+}
