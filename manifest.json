@@ -46,6 +46,11 @@
                       "hash":  "f9b5e96e436eaebccbfbe74561f2b44a"
                   },
                   {
+                      "size":  2978304,
+                      "filename":  "cstrike_new.exe",
+                      "hash":  "f9b5e96e436eaebccbfbe74561f2b44a"
+                  },
+                  {
                       "size":  138152,
                       "filename":  "DemoPlayer.dll",
                       "hash":  "641d3c2c5ea5d97b4d4f8f51f4c8fe3e"
@@ -7268,7 +7273,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "4a017367005afcc220f3d90e716bb71e"
+                      "hash":  "d4e3df3ec4d96a39d03ecd6dc3782031"
                   },
                   {
                       "size":  3696,
@@ -25546,6 +25551,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.13",
+    "version":  "1.0.14",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
