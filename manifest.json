@@ -7268,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "70eabcd8097cd299e1ba8efe436992b7"
+                      "hash":  "4a017367005afcc220f3d90e716bb71e"
                   },
                   {
                       "size":  3696,
@@ -25546,6 +25546,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
