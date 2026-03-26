@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2978304,
+                      "size":  2977280,
                       "filename":  "cstrike.exe",
-                      "hash":  "f9b5e96e436eaebccbfbe74561f2b44a"
+                      "hash":  "e61ec48ff521ca7f92773ee5ec370ea3"
                   },
                   {
                       "size":  138152,
@@ -53,7 +53,7 @@
                   {
                       "size":  124928,
                       "filename":  "FileSystem_Proxy.dll",
-                      "hash":  "6fcb0968904a6be834761b522c053526"
+                      "hash":  "c06af12c201efc85dcb3a45d91e35f57"
                   },
                   {
                       "size":  125880,
@@ -76,11 +76,6 @@
                       "hash":  "045d0f4f41ca53d4cb22bdc814a22b64"
                   },
                   {
-                      "size":  63,
-                      "filename":  "language.inf",
-                      "hash":  "c754dc22669532620b48b3fe9d299d7c"
-                  },
-                  {
                       "size":  20320240,
                       "filename":  "libcef.dll",
                       "hash":  "60be2cec0d95bb135d4452f39aac6805"
@@ -101,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4453888,
+                      "size":  4456960,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "0149b1fbbe25a3d8574fcdff3a85c360"
+                      "hash":  "17f6324687cdde3854eeeff7699f0df4"
                   },
                   {
                       "size":  11143568,
@@ -111,9 +106,9 @@
                       "hash":  "1e6d13e7cb7ef78f578f6d9a0a369fac"
                   },
                   {
-                      "size":  3192832,
+                      "size":  3193344,
                       "filename":  "nitro_api2.dll",
-                      "hash":  "5fb1bb8e37f8ac916e317eaea3d44bb7"
+                      "hash":  "529b0d21078fcf91d165210f6cc353af"
                   },
                   {
                       "size":  134144,
@@ -126,24 +121,14 @@
                       "hash":  "c644960c03d17a295b4ea767f62b2c1a"
                   },
                   {
-                      "size":  39818,
-                      "filename":  "readme.txt",
-                      "hash":  "42eb483d26edfdb6755c7537a41dda9d"
-                  },
-                  {
                       "size":  652800,
                       "filename":  "SDL2.dll",
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  7480,
-                      "filename":  "setting_guard.ini",
-                      "hash":  "d5b27b2843283c3b1bfd7f575e158254"
-                  },
-                  {
                       "size":  93696,
                       "filename":  "steam_api.dll",
-                      "hash":  "437eb51c3c577913c26c62ffa199416c"
+                      "hash":  "d8dfddef8e935640f02d57736563741c"
                   },
                   {
                       "size":  1134592,
@@ -176,9 +161,9 @@
                       "hash":  "dd414b96e6f8be54e743c676be47096b"
                   },
                   {
-                      "size":  323072,
+                      "size":  323584,
                       "filename":  "vgui2.dll",
-                      "hash":  "edf2000c08b989b18075b858fe2e7acc"
+                      "hash":  "0c81766ed3a3d3ebdab04763d5e21018"
                   },
                   {
                       "size":  331264,
@@ -199,16 +184,6 @@
                       "size":  11638,
                       "filename":  "cstrike/BotCampaignProfile.db",
                       "hash":  "37b4e4a9fd476f85cbbbca25b1a0e6e6"
-                  },
-                  {
-                      "size":  49813,
-                      "filename":  "cstrike/BotChatter.db",
-                      "hash":  "e5f695368ece68c71a503c45f57f1843"
-                  },
-                  {
-                      "size":  10482,
-                      "filename":  "cstrike/BotProfile.db",
-                      "hash":  "b4f628e930a892e09eb86879e3e4c8e9"
                   },
                   {
                       "size":  129636,
@@ -356,24 +331,14 @@
                       "hash":  "1dadc43cb13c0e3faf12185034afeb9a"
                   },
                   {
-                      "size":  431,
-                      "filename":  "cstrike/listenserver.cfg",
-                      "hash":  "d15acd4f37fa3b6288755fae530089bc"
-                  },
-                  {
-                      "size":  183,
-                      "filename":  "cstrike/mapcycle.txt",
-                      "hash":  "e9f7229267fdbe08e1224dc4b3db46e6"
-                  },
-                  {
                       "size":  140,
                       "filename":  "cstrike/MiscellaneousSettings.vdf",
                       "hash":  "7bff76856747aa02d1d41d9710d250db"
                   },
                   {
-                      "size":  697,
-                      "filename":  "cstrike/motd.txt",
-                      "hash":  "c9f5734a0dd790d1e92f3365e4b83e18"
+                      "size":  235,
+                      "filename":  "cstrike/motd_temp.html",
+                      "hash":  "06265d0c62df49b8f091bb4027ba4847"
                   },
                   {
                       "size":  147184,
@@ -386,24 +351,9 @@
                       "hash":  "3faa86a650e177babf57067754105e83"
                   },
                   {
-                      "size":  29433,
-                      "filename":  "cstrike/readme.txt",
-                      "hash":  "c7146391b609de1fac11eb2474967827"
-                  },
-                  {
                       "size":  1550,
                       "filename":  "cstrike/rebuy.txt",
                       "hash":  "59884a76b2229c7677ab89ab77655f5c"
-                  },
-                  {
-                      "size":  465,
-                      "filename":  "cstrike/server.cfg",
-                      "hash":  "2faafec6a708ba5ba2b319a435333a28"
-                  },
-                  {
-                      "size":  1779,
-                      "filename":  "cstrike/settings.scr",
-                      "hash":  "c2515f0aab98b4191d2ab0bf0746ae88"
                   },
                   {
                       "size":  1176,
@@ -748,12 +698,12 @@
                   {
                       "size":  313856,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "333c1da0f5e64402189115a0b004f9a6"
+                      "hash":  "94f0b87bb6be201384d98aef1701052d"
                   },
                   {
-                      "size":  2069504,
+                      "size":  2070016,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "c8db5e59c740f78833e321baedc87107"
+                      "hash":  "41de311e5d34fd8623ee05201ebd8346"
                   },
                   {
                       "size":  1961732,
@@ -25591,6 +25541,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
