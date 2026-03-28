@@ -7268,12 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "409772677b52b0a3a6763c62ba02a303"
-                  },
-                  {
-                      "size":  3696,
-                      "filename":  "platform/config/InGameDialogConfig.vdf",
-                      "hash":  "f6351cfaba5099ce01067262e0eaa1de"
+                      "hash":  "e2b10717f6022bf5153f8bef95800931"
                   },
                   {
                       "size":  458,
@@ -7284,11 +7279,6 @@
                       "size":  216,
                       "filename":  "platform/config/serverbrowser.dat",
                       "hash":  "d95f19b20a055f28d0385c8cb93e2a96"
-                  },
-                  {
-                      "size":  537,
-                      "filename":  "platform/config/ServerBrowser.vdf",
-                      "hash":  "18e97b9eb1b0895b6e2e17629f63d75d"
                   },
                   {
                       "size":  2158,
@@ -25546,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.21",
+    "version":  "1.0.22",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
