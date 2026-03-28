@@ -266,11 +266,6 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
-                      "size":  77824,
-                      "filename":  "cstrike/demoheader.dmf",
-                      "hash":  "d34275db4a4c521215628b864cb27d87"
-                  },
-                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -341,6 +336,11 @@
                       "hash":  "7bff76856747aa02d1d41d9710d250db"
                   },
                   {
+                      "size":  235,
+                      "filename":  "cstrike/motd_temp.html",
+                      "hash":  "06265d0c62df49b8f091bb4027ba4847"
+                  },
+                  {
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
@@ -404,11 +404,6 @@
                       "size":  4,
                       "filename":  "cstrike/voice_ban.dt",
                       "hash":  "4352d88a78aa39750bf70cd6f27bcaa5"
-                  },
-                  {
-                      "size":  847,
-                      "filename":  "cstrike/backup/CvarsBackup.vdf",
-                      "hash":  "c8cc2cf4991aaeb642f03cc56e8c5eb0"
                   },
                   {
                       "size":  6900,
@@ -3556,9 +3551,9 @@
                       "hash":  "3b2830db99e026b357aa55a3c0baf227"
                   },
                   {
-                      "size":  1015,
+                      "size":  1007,
                       "filename":  "cstrike/resource/GameMenu.res",
-                      "hash":  "7b04cfe37d82c1855500e90ee0ad3036"
+                      "hash":  "301187c71ec42dda7eff8f6cd8f5b37f"
                   },
                   {
                       "size":  26540,
@@ -7273,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "93dc1ecdca08b8a986c30878068e1a2d"
+                      "hash":  "6c45951eacb4d4b7bbf4ae830c3f7aaa"
                   },
                   {
                       "size":  3696,
@@ -25551,6 +25546,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.19",
+    "version":  "1.0.20",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
