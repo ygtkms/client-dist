@@ -386,11 +386,6 @@
                       "hash":  "27dba30a70ff8172fbc55a20c89a63e3"
                   },
                   {
-                      "size":  1700,
-                      "filename":  "cstrike/user.scr",
-                      "hash":  "367acc0bae1c27bad95f0e18abe992b3"
-                  },
-                  {
                       "size":  4,
                       "filename":  "cstrike/voice_ban.dt",
                       "hash":  "4352d88a78aa39750bf70cd6f27bcaa5"
@@ -7253,7 +7248,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "d1ddcf7b018f3a80964fe31e786e62ed"
+                      "hash":  "f65ae561952a919a4e1835683ae0a4be"
                   },
                   {
                       "size":  458,
@@ -25521,6 +25516,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.37",
+    "version":  "1.0.38",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
