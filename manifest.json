@@ -111,11 +111,6 @@
                       "hash":  "25c6b0c48e26eab9869b4fe17c70c9f5"
                   },
                   {
-                      "size":  35,
-                      "filename":  "NOUpdate ile ac.bat",
-                      "hash":  "a4bd7f87a4158baa731c2c84f2d616e6"
-                  },
-                  {
                       "size":  134144,
                       "filename":  "OptickCore.dll",
                       "hash":  "b0f5107238654a4404fa8e6bcb4e8728"
@@ -1963,7 +1958,7 @@
                   {
                       "size":  5176,
                       "filename":  "cstrike/logos/remapped.bmp",
-                      "hash":  "deba4b9b33a08b1cc9e6694a84f5b8e0"
+                      "hash":  "8b055c11130bcd5e0c8767148f88bd65"
                   },
                   {
                       "size":  82840,
@@ -7273,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "1f97ca14febcc758201bc7caa529b648"
+                      "hash":  "cc0934dc4e9ce8efdeeaa483d261e777"
                   },
                   {
                       "size":  458,
@@ -25541,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.42",
+    "version":  "1.0.43",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }

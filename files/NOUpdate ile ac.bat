@@ -1,1 +1,0 @@
-cstrike.exe -noupdate -game cstrike
