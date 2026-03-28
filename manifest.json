@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2984960,
+                      "size":  2982400,
                       "filename":  "cstrike.exe",
-                      "hash":  "19d13d514426392df24e0643f6c21902"
+                      "hash":  "f541913a426d1c023c1dd5c8ea468e53"
                   },
                   {
                       "size":  138152,
@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4457984,
+                      "size":  4456448,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "0b48967bd037af4dc4a1490cd5d531a8"
+                      "hash":  "7ad5e4a7c815adcf03b996d2b06958e1"
                   },
                   {
                       "size":  11143568,
@@ -109,6 +109,11 @@
                       "size":  3193344,
                       "filename":  "nitro_api2.dll",
                       "hash":  "25c6b0c48e26eab9869b4fe17c70c9f5"
+                  },
+                  {
+                      "size":  35,
+                      "filename":  "NOUpdate ile ac.bat",
+                      "hash":  "a4bd7f87a4158baa731c2c84f2d616e6"
                   },
                   {
                       "size":  134144,
@@ -371,6 +376,11 @@
                       "hash":  "d3d9446802a44259755d38e6d163e820"
                   },
                   {
+                      "size":  6296,
+                      "filename":  "cstrike/tempdecal.wad",
+                      "hash":  "22003195efd9d12a8124b2011a93ccaf"
+                  },
+                  {
                       "size":  25390,
                       "filename":  "cstrike/titles.txt",
                       "hash":  "51f44818bdc59a6d5d565e30b68c266d"
@@ -384,6 +394,11 @@
                       "size":  1555168,
                       "filename":  "cstrike/tswad.wad",
                       "hash":  "27dba30a70ff8172fbc55a20c89a63e3"
+                  },
+                  {
+                      "size":  1700,
+                      "filename":  "cstrike/user.scr",
+                      "hash":  "f5de15544aee0f415af5011e6738cdb3"
                   },
                   {
                       "size":  4,
@@ -683,12 +698,12 @@
                   {
                       "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "1f52b5a3c9bc47f96ca4bd196fd72692"
+                      "hash":  "8181a00b948d31d5ce55183e1de05f10"
                   },
                   {
-                      "size":  2078208,
+                      "size":  2077696,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "b7b3f9384a4d001594153ee564b13b7e"
+                      "hash":  "084d380c97f9c3c2a0aee77855d87b12"
                   },
                   {
                       "size":  1961732,
@@ -1939,6 +1954,11 @@
                       "size":  20204,
                       "filename":  "cstrike/gfx/vgui2/logo_steam.tga",
                       "hash":  "8b24a9c4a7e994479142e660aa0b3a1a"
+                  },
+                  {
+                      "size":  5176,
+                      "filename":  "cstrike/logos/remapped.bmp",
+                      "hash":  "8b055c11130bcd5e0c8767148f88bd65"
                   },
                   {
                       "size":  82840,
@@ -7248,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "bf8c2933a2f54ce25fe986f66d3bffa3"
+                      "hash":  "b8a022a6ceb638a0ce27aa8b64f48635"
                   },
                   {
                       "size":  458,
@@ -25516,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.39",
+    "version":  "1.0.40",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
