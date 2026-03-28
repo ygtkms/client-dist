@@ -266,6 +266,11 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
+                      "size":  86016,
+                      "filename":  "cstrike/demoheader.dmf",
+                      "hash":  "c02340ddb0f5616f9b4f19b9d416c35e"
+                  },
+                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -369,11 +374,6 @@
                       "size":  2,
                       "filename":  "cstrike/steam_appid.txt",
                       "hash":  "d3d9446802a44259755d38e6d163e820"
-                  },
-                  {
-                      "size":  6296,
-                      "filename":  "cstrike/tempdecal.wad",
-                      "hash":  "78583230916aff438e22cff1d2076195"
                   },
                   {
                       "size":  25390,
@@ -1949,11 +1949,6 @@
                       "size":  20204,
                       "filename":  "cstrike/gfx/vgui2/logo_steam.tga",
                       "hash":  "8b24a9c4a7e994479142e660aa0b3a1a"
-                  },
-                  {
-                      "size":  5176,
-                      "filename":  "cstrike/logos/remapped.bmp",
-                      "hash":  "8b055c11130bcd5e0c8767148f88bd65"
                   },
                   {
                       "size":  82840,
@@ -7263,7 +7258,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "50c3f35794963c9cff2c171ebe0de09b"
+                      "hash":  "a7e6de10bfdf531c4aeec64b323f6545"
                   },
                   {
                       "size":  458,
@@ -25531,6 +25526,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.32",
+    "version":  "1.0.33",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
