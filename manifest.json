@@ -98,7 +98,7 @@
                   {
                       "size":  4456448,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "688226a743443026343fae50dcce8348"
+                      "hash":  "355658103f8620c812f0792ab8b98c9c"
                   },
                   {
                       "size":  11143568,
@@ -7253,7 +7253,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "d0eda410163f568b0c7b5c4774fe8a3d"
+                      "hash":  "7a0ed598831ad5f837f189e5a206f31c"
                   },
                   {
                       "size":  458,
@@ -25521,6 +25521,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.34",
+    "version":  "1.0.35",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
