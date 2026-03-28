@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4456448,
+                      "size":  4457984,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "355658103f8620c812f0792ab8b98c9c"
+                      "hash":  "0b48967bd037af4dc4a1490cd5d531a8"
                   },
                   {
                       "size":  11143568,
@@ -683,12 +683,12 @@
                   {
                       "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "92440237d5a39ad348882600bd46fd65"
+                      "hash":  "1f52b5a3c9bc47f96ca4bd196fd72692"
                   },
                   {
                       "size":  2078208,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "bd2612bf9e2886a5084397ab76d147c6"
+                      "hash":  "b7b3f9384a4d001594153ee564b13b7e"
                   },
                   {
                       "size":  1961732,
@@ -7248,7 +7248,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "f65ae561952a919a4e1835683ae0a4be"
+                      "hash":  "bf8c2933a2f54ce25fe986f66d3bffa3"
                   },
                   {
                       "size":  458,
@@ -25516,6 +25516,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.38",
+    "version":  "1.0.39",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
