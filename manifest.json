@@ -406,11 +406,6 @@
                       "hash":  "4352d88a78aa39750bf70cd6f27bcaa5"
                   },
                   {
-                      "size":  844,
-                      "filename":  "cstrike/backup/CvarsBackup.vdf",
-                      "hash":  "ca3267b9846476ad52dc6b343c8c4170"
-                  },
-                  {
                       "size":  6900,
                       "filename":  "cstrike/classes/ak47.res",
                       "hash":  "9ba15b0ade9ef03c9dcd3de779c80c05"
@@ -708,7 +703,7 @@
                   {
                       "size":  2077696,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "80e854b27a4836e88e3e83b322127c30"
+                      "hash":  "4955496654ac35ce995f2e2c327cd4e9"
                   },
                   {
                       "size":  1961732,
@@ -7273,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "8c06888181a5d31e3a562e1975337e9f"
+                      "hash":  "b89a41c50e3a6267739e5ce93ff27323"
                   },
                   {
                       "size":  458,
@@ -25541,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.27",
+    "version":  "1.0.28",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
