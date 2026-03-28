@@ -378,7 +378,7 @@
                   {
                       "size":  6296,
                       "filename":  "cstrike/tempdecal.wad",
-                      "hash":  "eb7a293d93b5ede7a42ef175f19003fd"
+                      "hash":  "44690a6c56b1a8a8f27a276a17cbf1e1"
                   },
                   {
                       "size":  25390,
@@ -398,7 +398,12 @@
                   {
                       "size":  1700,
                       "filename":  "cstrike/user.scr",
-                      "hash":  "a166844c6c557b871ac63d2979ef5736"
+                      "hash":  "b7e1ee6b0662a1c1fa1ab36d8ae1320d"
+                  },
+                  {
+                      "size":  53,
+                      "filename":  "cstrike/VideoAdvancedSettings.vdf",
+                      "hash":  "888feecbd95ba07e0f4713e901eb0075"
                   },
                   {
                       "size":  4,
@@ -701,9 +706,9 @@
                       "hash":  "8181a00b948d31d5ce55183e1de05f10"
                   },
                   {
-                      "size":  2084864,
+                      "size":  2085376,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "3851c73049e5f298a45802e30765339f"
+                      "hash":  "e39fd17bebe633136c27bf988e1d0ab5"
                   },
                   {
                       "size":  1961732,
@@ -1958,7 +1963,7 @@
                   {
                       "size":  5176,
                       "filename":  "cstrike/logos/remapped.bmp",
-                      "hash":  "8b055c11130bcd5e0c8767148f88bd65"
+                      "hash":  "deba4b9b33a08b1cc9e6694a84f5b8e0"
                   },
                   {
                       "size":  82840,
@@ -7268,7 +7273,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "5eb0d06891f6d6bcae6dec31ae00f967"
+                      "hash":  "1f97ca14febcc758201bc7caa529b648"
                   },
                   {
                       "size":  458,
@@ -25536,6 +25541,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.41",
+    "version":  "1.0.42",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
