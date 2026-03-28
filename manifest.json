@@ -43,7 +43,7 @@
                   {
                       "size":  2984960,
                       "filename":  "cstrike.exe",
-                      "hash":  "806b147c8920406a7443741f8a61f8b4"
+                      "hash":  "19d13d514426392df24e0643f6c21902"
                   },
                   {
                       "size":  138152,
@@ -264,11 +264,6 @@
                       "size":  12190,
                       "filename":  "cstrike/delta.lst",
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
-                  },
-                  {
-                      "size":  86016,
-                      "filename":  "cstrike/demoheader.dmf",
-                      "hash":  "c02340ddb0f5616f9b4f19b9d416c35e"
                   },
                   {
                       "size":  4410248,
@@ -7258,7 +7253,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "a7e6de10bfdf531c4aeec64b323f6545"
+                      "hash":  "d0eda410163f568b0c7b5c4774fe8a3d"
                   },
                   {
                       "size":  458,
@@ -25526,6 +25521,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.33",
+    "version":  "1.0.34",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
