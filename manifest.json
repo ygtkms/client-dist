@@ -163,7 +163,7 @@
                   {
                       "size":  323584,
                       "filename":  "vgui2.dll",
-                      "hash":  "0c81766ed3a3d3ebdab04763d5e21018"
+                      "hash":  "26e01d048c90a0960d50cac877838309"
                   },
                   {
                       "size":  331264,
@@ -703,7 +703,7 @@
                   {
                       "size":  2071552,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "43739b060b8823dc19b3fca71d84931b"
+                      "hash":  "8ac7fd1a478fadabf4fefd19cb507c8e"
                   },
                   {
                       "size":  1961732,
@@ -7268,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "464d6abf885e670bb1cec21fa110e758"
+                      "hash":  "4c8553bf45bc35f422e46e749b177fad"
                   },
                   {
                       "size":  458,
@@ -25536,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.24",
+    "version":  "1.0.25",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
