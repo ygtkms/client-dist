@@ -698,12 +698,12 @@
                   {
                       "size":  313856,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "9ab5d72f32830256ffa04ba655984663"
+                      "hash":  "4723b7731ce5bf26011a5264a9e41b0e"
                   },
                   {
                       "size":  2077696,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "4955496654ac35ce995f2e2c327cd4e9"
+                      "hash":  "82e57069e6076099d32e88a86486ab6e"
                   },
                   {
                       "size":  1961732,
@@ -3586,9 +3586,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2524,
+                      "size":  2566,
                       "filename":  "cstrike/resource/nextclient_english.txt",
-                      "hash":  "1d9071ffd8c46f987aece4da4db10dad"
+                      "hash":  "08c9e6bd37d93e99942158cd0c977cd6"
                   },
                   {
                       "size":  4926,
@@ -3611,9 +3611,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2530,
+                      "size":  2572,
                       "filename":  "cstrike/resource/nextclient_turkish.txt",
-                      "hash":  "e245cdea374d3df1fe08145aea886e5a"
+                      "hash":  "816dc6d30d3152b4a0a6f750657bf71f"
                   },
                   {
                       "size":  4926,
@@ -7268,7 +7268,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "b8d45134638f536642f0735be4ff4c07"
+                      "hash":  "4310a97b19c9ca0f88e032de5cd23ee4"
                   },
                   {
                       "size":  458,
@@ -25536,6 +25536,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.29",
+    "version":  "1.0.30",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }

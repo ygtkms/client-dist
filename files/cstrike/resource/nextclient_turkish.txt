@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language" "Turkish"
 "Tokens"
@@ -32,6 +32,7 @@ Available branches:"
 //
 
 "GameUI_CrosshairDynamic"           "Dynamic"
+"GameUI_MicroCrosshair"             "Mikro"
 "GameUI_ExtraSmall"                 "Very small"
 "GameUI_Crosshair_Cross"            "Cross"
 "GameUI_Crosshair_TShape"           "T-shape"
