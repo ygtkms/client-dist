@@ -1,0 +1,3 @@
+{"sessionId":"nextclient","timestamp":1774901723862,"hypothesisId":"S0","location":"BasePanel.cpp:PerformLayout","message":"top_ad_baseline","data":{"bShow":1,"inLevel":0,"loadGui":0,"levelBp":0,"wide":2560,"stripAlpha":255,"stripVis":1}}
+{"sessionId":"nextclient","timestamp":1774901724255,"hypothesisId":"Hok","location":"ProfileAvatarCacheWriter.cpp","message":"write_profile_cache_ok","data":{"v1":1,"v2":497}}
+{"sessionId":"nextclient","timestamp":1774901724401,"hypothesisId":"Hok","location":"ProfileAvatarCacheWriter.cpp","message":"write_profile_cache_ok","data":{"v1":1,"v2":497}}

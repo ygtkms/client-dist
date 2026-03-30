@@ -703,7 +703,7 @@
                   {
                       "size":  2105856,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "259b0327bdc627394ff74e66b62491f2"
+                      "hash":  "eb73780370657a30274a79e84498629e"
                   },
                   {
                       "size":  1961732,
@@ -5431,6 +5431,11 @@
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
                   },
                   {
+                      "size":  594,
+                      "filename":  "cstrike_hd/nextclient_debug.ndjson",
+                      "hash":  "c43ae5ac620530d0a3d8298f9d3dfb05"
+                  },
+                  {
                       "size":  135440,
                       "filename":  "cstrike_hd/nextclient_peer_90071996842377548.ncv1",
                       "hash":  "75d810257377476b8a29466d9e1953f5"
@@ -6403,7 +6408,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "9ad47df923e48e00b548b5ca74087644"
+                      "hash":  "5887a56f297c8787f9cd81c978b6c30a"
                   },
                   {
                       "size":  458,
@@ -24671,6 +24676,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.49",
+    "version":  "1.0.50",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
