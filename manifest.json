@@ -341,16 +341,6 @@
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
                   },
                   {
-                      "size":  71,
-                      "filename":  "cstrike/nextclient_profile_avatar.loc",
-                      "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
-                  },
-                  {
-                      "size":  2,
-                      "filename":  "cstrike/nextclient_profile_site_uid.txt",
-                      "hash":  "b026324c6904b2a9cb4b88d6d61c81d1"
-                  },
-                  {
                       "size":  34340,
                       "filename":  "cstrike/prodigy.wad",
                       "hash":  "3faa86a650e177babf57067754105e83"
@@ -5439,16 +5429,6 @@
                       "size":  1854,
                       "filename":  "cstrike/sprites/effects/snowflake.spr",
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
-                  },
-                  {
-                      "size":  71,
-                      "filename":  "cstrike_hd/nextclient_profile_avatar.loc",
-                      "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
-                  },
-                  {
-                      "size":  2,
-                      "filename":  "cstrike_hd/nextclient_profile_site_uid.txt",
-                      "hash":  "b026324c6904b2a9cb4b88d6d61c81d1"
                   },
                   {
                       "size":  65580,
@@ -24646,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.57",
+    "version":  "1.0.58",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
