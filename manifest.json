@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2982400,
+                      "size":  2983424,
                       "filename":  "cstrike.exe",
-                      "hash":  "f541913a426d1c023c1dd5c8ea468e53"
+                      "hash":  "53cc083aa648bdd64e8a76d97cae4665"
                   },
                   {
                       "size":  138152,
@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4465664,
+                      "size":  4460544,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "ccba6273305e25f20b22dfbc996bc57c"
+                      "hash":  "582da7fce4576cd2c4490084f0a70724"
                   },
                   {
                       "size":  11143568,
@@ -126,9 +126,9 @@
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  93696,
+                      "size":  253440,
                       "filename":  "steam_api.dll",
-                      "hash":  "c55c285dc2af50dceeb64d4cdd056647"
+                      "hash":  "9653b67211cc22ce99d0e3b7bd108194"
                   },
                   {
                       "size":  1134592,
@@ -698,12 +698,12 @@
                   {
                       "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "8181a00b948d31d5ce55183e1de05f10"
+                      "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2085376,
+                      "size":  2103808,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "e39fd17bebe633136c27bf988e1d0ab5"
+                      "hash":  "943129a07b531eda5c472d9d02798f3e"
                   },
                   {
                       "size":  1961732,
@@ -6336,6 +6336,31 @@
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
                   },
                   {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377548.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377549.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
+                      "size":  71,
+                      "filename":  "cstrike_hd/nextclient_profile_avatar.loc",
+                      "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
+                  },
+                  {
+                      "size":  988052,
+                      "filename":  "cstrike_hd/nextclient_profile_avatar.ncv1",
+                      "hash":  "e663b780206581328f7c33ee1636ec94"
+                  },
+                  {
+                      "size":  2,
+                      "filename":  "cstrike_hd/nextclient_profile_site_uid.txt",
+                      "hash":  "b026324c6904b2a9cb4b88d6d61c81d1"
+                  },
+                  {
                       "size":  65580,
                       "filename":  "cstrike_hd/gfx/vgui/ak47.tga",
                       "hash":  "e76e7e82c8f8d47a4aba9cf35d08d770"
@@ -7268,7 +7293,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "cc0934dc4e9ce8efdeeaa483d261e777"
+                      "hash":  "c7ec93dea2962501fe4764aaf6accc1d"
                   },
                   {
                       "size":  458,
@@ -25536,6 +25561,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.43",
+    "version":  "1.0.44",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
