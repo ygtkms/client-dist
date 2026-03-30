@@ -701,9 +701,9 @@
                       "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2104320,
+                      "size":  2105344,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "266ec5ca077823a18c5a687c09c70a3a"
+                      "hash":  "d007c117f7a8e177b2e380e9e0efd8c9"
                   },
                   {
                       "size":  1961732,
@@ -6346,6 +6346,21 @@
                       "hash":  "75d810257377476b8a29466d9e1953f5"
                   },
                   {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377555.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377561.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377569.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
                       "size":  71,
                       "filename":  "cstrike_hd/nextclient_profile_avatar.loc",
                       "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
@@ -7293,7 +7308,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "4ed6070e00e81b7fa81d8fc95ee94c46"
+                      "hash":  "25f2813df5f5f111a2086a2121208294"
                   },
                   {
                       "size":  458,
@@ -25561,6 +25576,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.45",
+    "version":  "1.0.46",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
