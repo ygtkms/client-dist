@@ -336,14 +336,19 @@
                       "hash":  "7bff76856747aa02d1d41d9710d250db"
                   },
                   {
-                      "size":  1579,
-                      "filename":  "cstrike/motd_temp.html",
-                      "hash":  "07291d314bb38ecd84a17b779cf852bf"
-                  },
-                  {
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
+                  },
+                  {
+                      "size":  71,
+                      "filename":  "cstrike/nextclient_profile_avatar.loc",
+                      "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
+                  },
+                  {
+                      "size":  2,
+                      "filename":  "cstrike/nextclient_profile_site_uid.txt",
+                      "hash":  "b026324c6904b2a9cb4b88d6d61c81d1"
                   },
                   {
                       "size":  34340,
@@ -5436,49 +5441,9 @@
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
                   },
                   {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377226.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377227.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377548.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377549.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377555.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377561.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
-                      "size":  135440,
-                      "filename":  "cstrike_hd/nextclient_peer_90071996842377569.ncv1",
-                      "hash":  "75d810257377476b8a29466d9e1953f5"
-                  },
-                  {
                       "size":  71,
                       "filename":  "cstrike_hd/nextclient_profile_avatar.loc",
                       "hash":  "abbf86213ce6b2f33658773e1d12c1b9"
-                  },
-                  {
-                      "size":  988052,
-                      "filename":  "cstrike_hd/nextclient_profile_avatar.ncv1",
-                      "hash":  "e663b780206581328f7c33ee1636ec94"
                   },
                   {
                       "size":  2,
@@ -6414,11 +6379,6 @@
                       "size":  72,
                       "filename":  "platform/config/backend.json",
                       "hash":  "e9a48fa57d63b476ad7bc1de23b7fb8a"
-                  },
-                  {
-                      "size":  6,
-                      "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "dcc7524c20f29d19544f624f5775dab0"
                   },
                   {
                       "size":  458,
@@ -24686,6 +24646,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.56",
+    "version":  "1.0.57",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
