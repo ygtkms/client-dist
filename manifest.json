@@ -336,6 +336,11 @@
                       "hash":  "7bff76856747aa02d1d41d9710d250db"
                   },
                   {
+                      "size":  1579,
+                      "filename":  "cstrike/motd_temp.html",
+                      "hash":  "07291d314bb38ecd84a17b779cf852bf"
+                  },
+                  {
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
@@ -5431,9 +5436,14 @@
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
                   },
                   {
-                      "size":  594,
-                      "filename":  "cstrike_hd/nextclient_debug.ndjson",
-                      "hash":  "c43ae5ac620530d0a3d8298f9d3dfb05"
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377226.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
+                  },
+                  {
+                      "size":  135440,
+                      "filename":  "cstrike_hd/nextclient_peer_90071996842377227.ncv1",
+                      "hash":  "75d810257377476b8a29466d9e1953f5"
                   },
                   {
                       "size":  135440,
@@ -6408,7 +6418,7 @@
                   {
                       "size":  6,
                       "filename":  "platform/config/client_update_version.txt",
-                      "hash":  "80277e5f7d8853555d58dec4ad899f42"
+                      "hash":  "f60a06aa03734f857a32a3e437b621e6"
                   },
                   {
                       "size":  458,
@@ -24676,6 +24686,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.54",
+    "version":  "1.0.55",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
