@@ -701,9 +701,9 @@
                       "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2107392,
+                      "size":  2106880,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "7899c1a7bb375a588f01583148cfcccd"
+                      "hash":  "38777df7f47019a029e1fc6b900c3761"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.65",
+    "version":  "1.0.66",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
