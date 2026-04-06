@@ -266,11 +266,6 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
-                      "size":  77824,
-                      "filename":  "cstrike/demoheader.dmf",
-                      "hash":  "10e5c96213f0133dd8969fd4b94108f6"
-                  },
-                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -24631,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.73",
+    "version":  "1.0.74",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
