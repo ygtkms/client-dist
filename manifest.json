@@ -126,9 +126,9 @@
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  253952,
+                      "size":  259072,
                       "filename":  "steam_api.dll",
-                      "hash":  "2f49967236221497d608c4fe8fd59aae"
+                      "hash":  "d81a879796dcd2eecf88c2faf460e093"
                   },
                   {
                       "size":  1134592,
@@ -266,11 +266,6 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
-                      "size":  77824,
-                      "filename":  "cstrike/demoheader.dmf",
-                      "hash":  "7964aec15c93559f8552864db8e4f43a"
-                  },
-                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -344,11 +339,6 @@
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
-                  },
-                  {
-                      "size":  18,
-                      "filename":  "cstrike/nextclient_local_scoreboard_steam64.txt",
-                      "hash":  "9fcea0707bb5f137f2c70b2431947b12"
                   },
                   {
                       "size":  34340,
@@ -711,9 +701,9 @@
                       "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2109440,
+                      "size":  2112512,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "13be2fe479ce4a7230f54de0240cafd6"
+                      "hash":  "5991d855559227901db87d526a1cdfc3"
                   },
                   {
                       "size":  1961732,
@@ -24636,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.69",
+    "version":  "1.0.70",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
