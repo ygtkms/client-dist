@@ -128,7 +128,7 @@
                   {
                       "size":  253952,
                       "filename":  "steam_api.dll",
-                      "hash":  "08e49ffbaee7f41448d7af07d73450dc"
+                      "hash":  "2f49967236221497d608c4fe8fd59aae"
                   },
                   {
                       "size":  1134592,
@@ -266,6 +266,11 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
+                      "size":  77824,
+                      "filename":  "cstrike/demoheader.dmf",
+                      "hash":  "7964aec15c93559f8552864db8e4f43a"
+                  },
+                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -339,6 +344,11 @@
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
+                  },
+                  {
+                      "size":  18,
+                      "filename":  "cstrike/nextclient_local_scoreboard_steam64.txt",
+                      "hash":  "9fcea0707bb5f137f2c70b2431947b12"
                   },
                   {
                       "size":  34340,
@@ -703,7 +713,7 @@
                   {
                       "size":  2109440,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "c8e70452335264803e379508c62cced6"
+                      "hash":  "13be2fe479ce4a7230f54de0240cafd6"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24636,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.68",
+    "version":  "1.0.69",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
