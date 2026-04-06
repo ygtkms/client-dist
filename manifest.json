@@ -126,9 +126,9 @@
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  259072,
+                      "size":  253952,
                       "filename":  "steam_api.dll",
-                      "hash":  "d81a879796dcd2eecf88c2faf460e093"
+                      "hash":  "5ac1f9f58ea0fa158da8413281d401f3"
                   },
                   {
                       "size":  1134592,
@@ -373,7 +373,7 @@
                   {
                       "size":  6296,
                       "filename":  "cstrike/tempdecal.wad",
-                      "hash":  "44690a6c56b1a8a8f27a276a17cbf1e1"
+                      "hash":  "13ea93efd04d67abd1440da8b6414141"
                   },
                   {
                       "size":  25390,
@@ -701,9 +701,9 @@
                       "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2122752,
+                      "size":  2118144,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "1c9b9ed0709baa8bce554aa53cc0ef78"
+                      "hash":  "064ed23b35495581fe3364c51e16ea60"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.76",
+    "version":  "1.0.77",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
