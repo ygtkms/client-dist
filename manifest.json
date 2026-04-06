@@ -266,6 +266,11 @@
                       "hash":  "71e875fb3cbb8476c141babca0f6c706"
                   },
                   {
+                      "size":  69632,
+                      "filename":  "cstrike/demoheader.dmf",
+                      "hash":  "c31e57386eb4eef54819b6962977fb37"
+                  },
+                  {
                       "size":  4410248,
                       "filename":  "cstrike/de_airstrip.wad",
                       "hash":  "937272136aee6126ed9396192ade2359"
@@ -339,6 +344,11 @@
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
+                  },
+                  {
+                      "size":  18,
+                      "filename":  "cstrike/nextclient_local_scoreboard_steam64.txt",
+                      "hash":  "35fd7618aa1b3634f09f0cc24b36fc5d"
                   },
                   {
                       "size":  34340,
@@ -701,9 +711,9 @@
                       "hash":  "95690d47a1358b7f9eb822a0594b3297"
                   },
                   {
-                      "size":  2112512,
+                      "size":  2118656,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "5991d855559227901db87d526a1cdfc3"
+                      "hash":  "b7c7c3489caab0ab3b8fc7668772a895"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24636,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.70",
+    "version":  "1.0.71",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
