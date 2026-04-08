@@ -1,0 +1,1 @@
+http://37.114.34.127/api/anket/embed/survey?steam64=76561198080577905&ts=1775647481&sig=7ec2bd645778e43ad8cfd2cbb6e90439a86dc96574d79facbce30d8d0fcea747&bar=1
