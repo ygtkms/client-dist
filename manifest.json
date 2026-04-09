@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4460544,
+                      "size":  4468224,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "1f9f695ab652420f7da7fd5d42fc645a"
+                      "hash":  "fc3dece8464b6480f8f845f0524deb48"
                   },
                   {
                       "size":  11143568,
@@ -5433,7 +5433,7 @@
                   {
                       "size":  159,
                       "filename":  "cstrike_hd/nc_survey_last_embed_url.txt",
-                      "hash":  "f93547e1c022120d8f10ae97e5a665f2"
+                      "hash":  "1bf8d5b5a380a3601b27e2622b1d3913"
                   },
                   {
                       "size":  65580,
@@ -24631,6 +24631,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.79",
+    "version":  "1.0.80",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
