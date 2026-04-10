@@ -126,9 +126,9 @@
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  259072,
+                      "size":  260096,
                       "filename":  "steam_api.dll",
-                      "hash":  "c65be16a70221619f559259bfadc0be6"
+                      "hash":  "5ee186fac1b1f4a83380f0708c811c5d"
                   },
                   {
                       "size":  1134592,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.91",
+    "version":  "1.0.92",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
