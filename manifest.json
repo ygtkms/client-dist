@@ -5431,11 +5431,6 @@
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
                   },
                   {
-                      "size":  159,
-                      "filename":  "cstrike_hd/nc_survey_last_embed_url.txt",
-                      "hash":  "98e6d19c238f6e2d55a07658d191dda2"
-                  },
-                  {
                       "size":  65580,
                       "filename":  "cstrike_hd/gfx/vgui/ak47.tga",
                       "hash":  "e76e7e82c8f8d47a4aba9cf35d08d770"
@@ -24631,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.81",
+    "version":  "1.0.82",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
