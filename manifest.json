@@ -128,7 +128,7 @@
                   {
                       "size":  253952,
                       "filename":  "steam_api.dll",
-                      "hash":  "0cfb32a563e66ac6e81fc4a8cf429e18"
+                      "hash":  "1e195c7ae0a31a4779ab7aaf2c689b20"
                   },
                   {
                       "size":  1134592,
@@ -693,7 +693,7 @@
                   {
                       "size":  2192896,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "3cefe79beb9dd365d7b9966f4ed3960b"
+                      "hash":  "2e13c9b0da1b613247d451ffe2c818fb"
                   },
                   {
                       "size":  1961732,
@@ -24616,6 +24616,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.106",
+    "version":  "1.0.107",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
