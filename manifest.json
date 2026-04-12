@@ -128,7 +128,7 @@
                   {
                       "size":  253952,
                       "filename":  "steam_api.dll",
-                      "hash":  "1e195c7ae0a31a4779ab7aaf2c689b20"
+                      "hash":  "fb148782ac821343579c24c6c7a0e556"
                   },
                   {
                       "size":  1134592,
@@ -321,6 +321,11 @@
                       "hash":  "7c9664c51c92b0a4e2770691058dfe2a"
                   },
                   {
+                      "size":  3696,
+                      "filename":  "cstrike/InGameDialogConfig.vdf",
+                      "hash":  "2a0579d27e00af0964ebbb4889d4de7a"
+                  },
+                  {
                       "size":  1856328,
                       "filename":  "cstrike/itsitaly.wad",
                       "hash":  "430dc9cbfafaf66e06d96ac772c91e6d"
@@ -349,6 +354,11 @@
                       "size":  1550,
                       "filename":  "cstrike/rebuy.txt",
                       "hash":  "59884a76b2229c7677ab89ab77655f5c"
+                  },
+                  {
+                      "size":  537,
+                      "filename":  "cstrike/ServerBrowser.vdf",
+                      "hash":  "18e97b9eb1b0895b6e2e17629f63d75d"
                   },
                   {
                       "size":  1176,
@@ -691,9 +701,9 @@
                       "hash":  "ca159ff1105d9360897d3b6e88e4dc24"
                   },
                   {
-                      "size":  2192896,
+                      "size":  2194432,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "2e13c9b0da1b613247d451ffe2c818fb"
+                      "hash":  "74b1f6fae58ee817f265660ae7d8a1f3"
                   },
                   {
                       "size":  1961732,
@@ -24616,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.107",
+    "version":  "1.0.108",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
