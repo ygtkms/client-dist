@@ -371,11 +371,6 @@
                       "hash":  "d3d9446802a44259755d38e6d163e820"
                   },
                   {
-                      "size":  6296,
-                      "filename":  "cstrike/tempdecal.wad",
-                      "hash":  "13ea93efd04d67abd1440da8b6414141"
-                  },
-                  {
                       "size":  25390,
                       "filename":  "cstrike/titles.txt",
                       "hash":  "51f44818bdc59a6d5d565e30b68c266d"
@@ -389,11 +384,6 @@
                       "size":  1555168,
                       "filename":  "cstrike/tswad.wad",
                       "hash":  "27dba30a70ff8172fbc55a20c89a63e3"
-                  },
-                  {
-                      "size":  1700,
-                      "filename":  "cstrike/user.scr",
-                      "hash":  "b7e1ee6b0662a1c1fa1ab36d8ae1320d"
                   },
                   {
                       "size":  53,
@@ -24626,6 +24616,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.101",
+    "version":  "1.0.102",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
