@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2982912,
+                      "size":  2988544,
                       "filename":  "cstrike.exe",
-                      "hash":  "9dbcf5bb529c11371b093d88b383512e"
+                      "hash":  "6518f3ca9438ee777ba39c710a40fde8"
                   },
                   {
                       "size":  138152,
@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4468224,
+                      "size":  4477952,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "9bd495b33624e28bc2c7edcb5b6af555"
+                      "hash":  "61ce2699b0fe8f7541c167b895e8892e"
                   },
                   {
                       "size":  11143568,
@@ -128,7 +128,7 @@
                   {
                       "size":  254464,
                       "filename":  "steam_api.dll",
-                      "hash":  "0aa52979210056dbcfed39b072773809"
+                      "hash":  "f4c24280d24bf5778bdcb3aa0dd097af"
                   },
                   {
                       "size":  1134592,
@@ -701,9 +701,9 @@
                       "hash":  "b008d8a02988c0ed35ee8a0562a63dc2"
                   },
                   {
-                      "size":  2198016,
+                      "size":  2206720,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "fcd89c26c91e8e30c4ad1cc18bbe8097"
+                      "hash":  "d263a1cf09bb385aae8799e3a5099b58"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.115",
+    "version":  "1.0.116",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
