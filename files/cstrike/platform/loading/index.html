@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="screen-container">
+        <iframe id="bg-iframe" src="about:blank" class="bg-iframe" frameborder="0"></iframe>
+        <div class="overlay" aria-hidden="true"></div>
+        <div id="ad-popup-container" class="ad-popup-container" aria-hidden="true">
+            <div class="ad-popup-backdrop"></div>
+            <div class="ad-popup-box">
+                <button id="ad-popup-close" class="ad-popup-close" aria-label="Kapat">&times;</button>
+                <iframe id="ad-popup-iframe" class="ad-popup-iframe" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
