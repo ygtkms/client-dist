@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  2988544,
+                      "size":  2982912,
                       "filename":  "cstrike.exe",
-                      "hash":  "6518f3ca9438ee777ba39c710a40fde8"
+                      "hash":  "2fc550667ce4e7c2ad3e4672699ec507"
                   },
                   {
                       "size":  138152,
@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4477952,
+                      "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "61ce2699b0fe8f7541c167b895e8892e"
+                      "hash":  "73ad07a880d1476b88b1b87c6521b2c0"
                   },
                   {
                       "size":  11143568,
@@ -701,9 +701,9 @@
                       "hash":  "b008d8a02988c0ed35ee8a0562a63dc2"
                   },
                   {
-                      "size":  2206720,
+                      "size":  2198016,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "d263a1cf09bb385aae8799e3a5099b58"
+                      "hash":  "575d0b0b6f2fcfee486b00aecd93e4da"
                   },
                   {
                       "size":  1961732,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.116",
+    "version":  "1.0.117",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
