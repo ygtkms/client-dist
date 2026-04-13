@@ -703,7 +703,7 @@
                   {
                       "size":  2198528,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "11b314d2e3d7f84a6811638fc8487297"
+                      "hash":  "8ee47948d70a30795ce8ecaa01841d2e"
                   },
                   {
                       "size":  1961732,
@@ -1601,14 +1601,14 @@
                       "hash":  "a32272ae1595a2d8c5f7a61fa1652df9"
                   },
                   {
-                      "size":  2574,
+                      "size":  2502,
                       "filename":  "cstrike/gfx/shell/kb_act.lst",
-                      "hash":  "2f86bc708e58183501517717bbe74e42"
+                      "hash":  "8550fc68b1e2a3f8557c8e020a6431f1"
                   },
                   {
-                      "size":  1285,
+                      "size":  1220,
                       "filename":  "cstrike/gfx/shell/kb_def.lst",
-                      "hash":  "c50eab5a02deca5de85f2a2b33760d6c"
+                      "hash":  "c54a518cb2c7f650c0583eb674113a16"
                   },
                   {
                       "size":  65580,
@@ -2611,9 +2611,9 @@
                       "hash":  "b788b8f78a3bfc1ce8d4423d8217418d"
                   },
                   {
-                      "size":  7312,
+                      "size":  6957,
                       "filename":  "cstrike/resource/CreateMultiplayerGameBotPage.res",
-                      "hash":  "0207ad718cc5bbfefbfe619223834b0c"
+                      "hash":  "567f45c2ee56df6115d30da4f2453ce4"
                   },
                   {
                       "size":  1660,
@@ -2621,9 +2621,9 @@
                       "hash":  "e875df25871e82515fd61ccc2cba1e09"
                   },
                   {
-                      "size":  4754,
+                      "size":  4512,
                       "filename":  "cstrike/resource/CreateMultiplayerGameServerPage.res",
-                      "hash":  "bf41321a197a0ea899b050a5f8700430"
+                      "hash":  "7add1583e9912146a72332ada1e156ef"
                   },
                   {
                       "size":  177658,
@@ -2646,9 +2646,9 @@
                       "hash":  "3b2830db99e026b357aa55a3c0baf227"
                   },
                   {
-                      "size":  1015,
+                      "size":  948,
                       "filename":  "cstrike/resource/GameMenu.res",
-                      "hash":  "7b04cfe37d82c1855500e90ee0ad3036"
+                      "hash":  "fb74edbbf6b5a6ef71a232c1c13ea9b2"
                   },
                   {
                       "size":  26540,
@@ -2671,9 +2671,9 @@
                       "hash":  "6c016f3dccdb6b62383c87b321f22ebe"
                   },
                   {
-                      "size":  8446,
+                      "size":  8037,
                       "filename":  "cstrike/resource/MultiplayerAdvancedDialog.res",
-                      "hash":  "b3e055e912c5a6851d9509b8b3321425"
+                      "hash":  "41234b522bdd45f31cb315a87120249c"
                   },
                   {
                       "size":  4926,
@@ -2681,9 +2681,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2566,
+                      "size":  2502,
                       "filename":  "cstrike/resource/nextclient_english.txt",
-                      "hash":  "08c9e6bd37d93e99942158cd0c977cd6"
+                      "hash":  "3847ccca3738818e262eb358dbfb557b"
                   },
                   {
                       "size":  4926,
@@ -2706,9 +2706,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2572,
+                      "size":  2509,
                       "filename":  "cstrike/resource/nextclient_turkish.txt",
-                      "hash":  "816dc6d30d3152b4a0a6f750657bf71f"
+                      "hash":  "a5586ed31c0b314ea4dc4f22558afb02"
                   },
                   {
                       "size":  4926,
@@ -2716,29 +2716,29 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  4071,
+                      "size":  3879,
                       "filename":  "cstrike/resource/OptionsSubMiscellaneous.res",
-                      "hash":  "12a8a0b13ae4e12e611db6f2ed156fdb"
+                      "hash":  "ae16c0430623660ccbe6d7ec88bb7a7d"
                   },
                   {
-                      "size":  6115,
+                      "size":  5800,
                       "filename":  "cstrike/resource/OptionsSubMouse.res",
-                      "hash":  "e1a2cad9da456477ec8fc5f223b1a19e"
+                      "hash":  "e1e1dea40b0f91c1b87317fb95c1bfc3"
                   },
                   {
-                      "size":  18539,
+                      "size":  17670,
                       "filename":  "cstrike/resource/OptionsSubMultiplayer.res",
-                      "hash":  "f7e7988ee830bf190ba141fccaf0b33b"
+                      "hash":  "6bcc40992cb56092af8e91c27f240a70"
                   },
                   {
-                      "size":  11360,
+                      "size":  10842,
                       "filename":  "cstrike/resource/OptionsSubVideo.res",
-                      "hash":  "7d31ed1a8e37a146f396f763ed3706b9"
+                      "hash":  "cac21068c94e2a446e8422e786c1f3c0"
                   },
                   {
-                      "size":  5656,
+                      "size":  5367,
                       "filename":  "cstrike/resource/OptionsSubVoice.res",
-                      "hash":  "54ef73d55343def6b7d7b039699a93ea"
+                      "hash":  "fd561894dea78bc3f51d716b13eaece6"
                   },
                   {
                       "size":  17782,
@@ -2751,9 +2751,9 @@
                       "hash":  "bf06a7cac3905a3274090c7bcf8f0611"
                   },
                   {
-                      "size":  8597,
+                      "size":  8187,
                       "filename":  "cstrike/resource/VideoAvancedDialog.res",
-                      "hash":  "655ba5af1da8cfe068205cfd0bcb4963"
+                      "hash":  "f715948905cc98e8abaee294b8a09974"
                   },
                   {
                       "size":  196652,
@@ -2816,14 +2816,14 @@
                       "hash":  "2b4f20924c00865da19989829f130f08"
                   },
                   {
-                      "size":  18889,
+                      "size":  17834,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res",
-                      "hash":  "acd1fc7a28b27b3ccdf6a2a3100a4c1b"
+                      "hash":  "40f26d955af40885fa565b209dd7884d"
                   },
                   {
-                      "size":  19184,
+                      "size":  18112,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_Source.res",
-                      "hash":  "9fcd7f2976b0d649b1272c89be9d215d"
+                      "hash":  "562247067248754657e09e8c155d0647"
                   },
                   {
                       "size":  2241,
@@ -6341,14 +6341,14 @@
                       "hash":  "fa8521debd93c5c1df1aeca0cf4c7eb1"
                   },
                   {
-                      "size":  34,
+                      "size":  31,
                       "filename":  "platform/accepted_domains.txt",
-                      "hash":  "49f0570b9379dd65cb0c909d6b4dfdba"
+                      "hash":  "584fe3c1e6cd8b5abc2fe7a1f7ec85d1"
                   },
                   {
-                      "size":  65,
+                      "size":  64,
                       "filename":  "platform/mmb_home_page.html",
-                      "hash":  "18622e116ad6bd545f881ea467f2e41f"
+                      "hash":  "97c027193282c470b542ff1748425edb"
                   },
                   {
                       "size":  27,
@@ -6356,14 +6356,14 @@
                       "hash":  "0fae8bf7ecad893f5b1f880bc4d58bb8"
                   },
                   {
-                      "size":  72,
+                      "size":  67,
                       "filename":  "platform/config/backend.json",
-                      "hash":  "e9a48fa57d63b476ad7bc1de23b7fb8a"
+                      "hash":  "f4d806c8d4e75e2d8145da69b9d30879"
                   },
                   {
-                      "size":  458,
+                      "size":  430,
                       "filename":  "platform/config/MasterServer.vdf",
-                      "hash":  "9864c4e27465332d2dc6648813eec7a4"
+                      "hash":  "d2ce8511b5f6633dc39f3df9bdfc17ae"
                   },
                   {
                       "size":  216,
@@ -6371,24 +6371,24 @@
                       "hash":  "d95f19b20a055f28d0385c8cb93e2a96"
                   },
                   {
-                      "size":  2158,
+                      "size":  2097,
                       "filename":  "platform/loading/app.js",
-                      "hash":  "05399388f99151aa9fe7b06d124c94b5"
+                      "hash":  "e69439b9d23b00f491e2059b2944a7ef"
                   },
                   {
-                      "size":  895,
+                      "size":  872,
                       "filename":  "platform/loading/index.html",
-                      "hash":  "d8d9f0caab34981b419e0ddd2070b665"
+                      "hash":  "79925bf8bc1762317ff1fae823b95254"
                   },
                   {
-                      "size":  1362,
+                      "size":  1320,
                       "filename":  "platform/loading/popup-sample.html",
-                      "hash":  "51b6564d58cfc11a72faed92a56d3157"
+                      "hash":  "5dd13ae4e5017803fd502d177c69312e"
                   },
                   {
-                      "size":  1786,
+                      "size":  1682,
                       "filename":  "platform/loading/style.css",
-                      "hash":  "a357ae1d1470588de6cadec291c3a4b9"
+                      "hash":  "848c8d130d21cf737ea49b910d428b63"
                   },
                   {
                       "size":  2543,
@@ -6751,14 +6751,14 @@
                       "hash":  "a10eb40b15ba5772acd70ba8c43c4189"
                   },
                   {
-                      "size":  6533,
+                      "size":  6204,
                       "filename":  "platform/servers/InternetGamesPage.res",
-                      "hash":  "960ac90ffbb6729c6bed8c0674e038aa"
+                      "hash":  "aa7f92714b28721c5a0428aa332634ca"
                   },
                   {
-                      "size":  7598,
+                      "size":  7217,
                       "filename":  "platform/servers/InternetGamesPage_Filters.res",
-                      "hash":  "c6826772c82e26ce941ab1a513f028db"
+                      "hash":  "18bb194e0b0e52340dcb1d324b197780"
                   },
                   {
                       "size":  587,
@@ -24626,6 +24626,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.111",
+    "version":  "1.0.112",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
