@@ -323,7 +323,7 @@
                   {
                       "size":  3696,
                       "filename":  "cstrike/InGameDialogConfig.vdf",
-                      "hash":  "2a0579d27e00af0964ebbb4889d4de7a"
+                      "hash":  "45f781c78fbadb8bf6847579134caf0e"
                   },
                   {
                       "size":  1856328,
@@ -24681,6 +24681,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.124",
+    "version":  "1.0.125",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
