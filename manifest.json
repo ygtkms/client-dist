@@ -43,7 +43,7 @@
                   {
                       "size":  3084800,
                       "filename":  "cstrike.exe",
-                      "hash":  "cb099692623e2d6544601eda1e0f7368"
+                      "hash":  "44bc46ca4dbd410cf0ca476e2facc3c5"
                   },
                   {
                       "size":  138152,
@@ -53,7 +53,7 @@
                   {
                       "size":  124928,
                       "filename":  "FileSystem_Proxy.dll",
-                      "hash":  "511a4602682bea83fc5ef94a1967848e"
+                      "hash":  "e2be8387dcafdecd768ce96fa667469d"
                   },
                   {
                       "size":  125880,
@@ -98,7 +98,7 @@
                   {
                       "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "ac940a7c9f7ca9429edb7efb51d34790"
+                      "hash":  "2f1ef3c49991f25ab4a63a81fdda7614"
                   },
                   {
                       "size":  11143568,
@@ -108,7 +108,7 @@
                   {
                       "size":  3193344,
                       "filename":  "nitro_api2.dll",
-                      "hash":  "4758c8db8b7ddcc5bed6442fe16583d8"
+                      "hash":  "0e3e8e6f268cca6662cbfe5cbc5afdb2"
                   },
                   {
                       "size":  134144,
@@ -126,9 +126,9 @@
                       "hash":  "3b18fa46189823696366b2a9e2e05dbe"
                   },
                   {
-                      "size":  254464,
+                      "size":  256000,
                       "filename":  "steam_api.dll",
-                      "hash":  "8b9336a1e11bf36e8cde6896fb441a71"
+                      "hash":  "4b64dcd31273f98600817b119ed959c6"
                   },
                   {
                       "size":  1134592,
@@ -698,12 +698,12 @@
                   {
                       "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "a9e8f81b18ec1db38aec5f387cce8341"
+                      "hash":  "e3b4f36aa3991120667ae2f511d8c394"
                   },
                   {
-                      "size":  2207744,
+                      "size":  2209280,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "23fa1ded3c7489fadbbb16581206c4fa"
+                      "hash":  "8d912bb3d366b3a72800cfe4208e265b"
                   },
                   {
                       "size":  1961732,
@@ -2351,6 +2351,11 @@
                       "hash":  "f40d3688b442da8aa49d027e37c92193"
                   },
                   {
+                      "size":  2773509,
+                      "filename":  "cstrike/media/gamestartup.mp3",
+                      "hash":  "5c68d7ddaaddaa2578fcc7b7454b781d"
+                  },
+                  {
                       "size":  787510,
                       "filename":  "cstrike/overviews/as_oilrig.bmp",
                       "hash":  "cb85a3d985771d2f2475180324a98d25"
@@ -2791,9 +2796,9 @@
                       "hash":  "54ef73d55343def6b7d7b039699a93ea"
                   },
                   {
-                      "size":  18836,
+                      "size":  18970,
                       "filename":  "cstrike/resource/TrackerScheme.res",
-                      "hash":  "d623d89fd63dc750a7da9f540c1c60be"
+                      "hash":  "ed791568d08e6e581ab0eee40789287d"
                   },
                   {
                       "size":  5968,
@@ -2866,14 +2871,14 @@
                       "hash":  "2b4f20924c00865da19989829f130f08"
                   },
                   {
-                      "size":  18889,
+                      "size":  19023,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res",
-                      "hash":  "acd1fc7a28b27b3ccdf6a2a3100a4c1b"
+                      "hash":  "f6b3a9024817c8c33d9ae0ebb02dd2ea"
                   },
                   {
-                      "size":  19184,
+                      "size":  19318,
                       "filename":  "cstrike/resource/schemes/TrackerScheme_Source.res",
-                      "hash":  "9fcd7f2976b0d649b1272c89be9d215d"
+                      "hash":  "9224acddeee22f2dc4bedc9285b34f55"
                   },
                   {
                       "size":  2241,
@@ -24681,6 +24686,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.126",
+    "version":  "1.0.127",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }

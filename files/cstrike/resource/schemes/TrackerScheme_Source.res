@@ -344,6 +344,16 @@ Scheme
 				"weight"	"700"
 			}
 		}
+		"LeaderboardName"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"23"
+				"weight"	"600"
+				"antialias"	"1"
+			}
+		}
 		"UiBold"
 		{
 			"1"
