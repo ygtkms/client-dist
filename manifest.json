@@ -141,11 +141,6 @@
                       "hash":  "cc3d1ca6401e2ab106733c7bd7489cad"
                   },
                   {
-                      "size":  4,
-                      "filename":  "steam_appid.txt",
-                      "hash":  "26eb5c462a98113bc43350c1d1a3a774"
-                  },
-                  {
                       "size":  357,
                       "filename":  "steam_interfaces.txt",
                       "hash":  "06b261084a55fee16e45159acc5b11ec"
@@ -24686,6 +24681,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.127",
+    "version":  "1.0.128",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
