@@ -43,7 +43,7 @@
                   {
                       "size":  3084800,
                       "filename":  "cstrike.exe",
-                      "hash":  "44bc46ca4dbd410cf0ca476e2facc3c5"
+                      "hash":  "88eb9fc6ef9c5916ee7282920663cbfe"
                   },
                   {
                       "size":  138152,
@@ -53,7 +53,7 @@
                   {
                       "size":  124928,
                       "filename":  "FileSystem_Proxy.dll",
-                      "hash":  "e2be8387dcafdecd768ce96fa667469d"
+                      "hash":  "ba5160fc42f6def259763fe1c80e2752"
                   },
                   {
                       "size":  125880,
@@ -98,7 +98,7 @@
                   {
                       "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "2f1ef3c49991f25ab4a63a81fdda7614"
+                      "hash":  "46a01750a3e2ed7addb9cb7b0c0b892c"
                   },
                   {
                       "size":  11143568,
@@ -108,7 +108,7 @@
                   {
                       "size":  3193344,
                       "filename":  "nitro_api2.dll",
-                      "hash":  "0e3e8e6f268cca6662cbfe5cbc5afdb2"
+                      "hash":  "4b61c366060fc14db5910e38fe5ebf27"
                   },
                   {
                       "size":  134144,
@@ -128,7 +128,7 @@
                   {
                       "size":  256000,
                       "filename":  "steam_api.dll",
-                      "hash":  "4b64dcd31273f98600817b119ed959c6"
+                      "hash":  "27e32d3bf0daf496f0fe06b58cd7a82e"
                   },
                   {
                       "size":  1134592,
@@ -139,6 +139,11 @@
                       "size":  103920,
                       "filename":  "steam_api_orig.dll",
                       "hash":  "cc3d1ca6401e2ab106733c7bd7489cad"
+                  },
+                  {
+                      "size":  4,
+                      "filename":  "steam_appid.txt",
+                      "hash":  "26eb5c462a98113bc43350c1d1a3a774"
                   },
                   {
                       "size":  357,
@@ -693,12 +698,12 @@
                   {
                       "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "e3b4f36aa3991120667ae2f511d8c394"
+                      "hash":  "f062509aefeda153a559fe47f9fcabb8"
                   },
                   {
-                      "size":  2209280,
+                      "size":  2224128,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "8d912bb3d366b3a72800cfe4208e265b"
+                      "hash":  "d3af2d6171abeed8443758818b87e701"
                   },
                   {
                       "size":  1961732,
@@ -24681,6 +24686,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.129",
+    "version":  "1.0.130",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
