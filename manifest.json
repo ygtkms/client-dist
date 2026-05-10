@@ -43,7 +43,7 @@
                   {
                       "size":  3084800,
                       "filename":  "cstrike.exe",
-                      "hash":  "d55b22cf6ba1734060c477ac9579eeea"
+                      "hash":  "fb3dbfaef67d2fc5595162185f0861d6"
                   },
                   {
                       "size":  138152,
@@ -98,7 +98,7 @@
                   {
                       "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "415197867c0d6c77e9834363344fc332"
+                      "hash":  "b1e2250f40ce9a8fc4a17a02cbd2de18"
                   },
                   {
                       "size":  11143568,
@@ -128,7 +128,7 @@
                   {
                       "size":  256000,
                       "filename":  "steam_api.dll",
-                      "hash":  "5932fc658fab32ebd819aaba3bfb15c1"
+                      "hash":  "ebb05bae76c9ffd977229dbb9ff8b685"
                   },
                   {
                       "size":  1134592,
@@ -323,7 +323,7 @@
                   {
                       "size":  3696,
                       "filename":  "cstrike/InGameDialogConfig.vdf",
-                      "hash":  "45f781c78fbadb8bf6847579134caf0e"
+                      "hash":  "773f0f99f88e5fd4c9637493a0134e40"
                   },
                   {
                       "size":  1856328,
@@ -701,9 +701,9 @@
                       "hash":  "1df4dd7cfbe334fb73cb1cbb09ad237b"
                   },
                   {
-                      "size":  2302464,
+                      "size":  2338304,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "0f31e9090a7b6ee5358275824c91f052"
+                      "hash":  "eac8c7032f0716ddd66ae4f4a230aa5f"
                   },
                   {
                       "size":  1961732,
@@ -24686,6 +24686,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.139",
+    "version":  "1.0.140",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }

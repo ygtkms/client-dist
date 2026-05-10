@@ -43,7 +43,7 @@
 					"2_hidden"		"1"
 					"2_width"		"16"
 					"3_hidden"		"0"
-					"3_width"		"313"
+					"3_width"		"312"
 					"4_hidden"		"0"
 					"4_width"		"112"
 					"5_hidden"		"0"
@@ -55,7 +55,7 @@
 					"8_hidden"		"1"
 					"8_width"		"95"
 					"9_hidden"		"0"
-					"9_width"		"125"
+					"9_width"		"126"
 				}
 			}
 			"LanGames"
@@ -70,7 +70,7 @@
 					"2_hidden"		"1"
 					"2_width"		"16"
 					"3_hidden"		"0"
-					"3_width"		"434"
+					"3_width"		"433"
 					"4_hidden"		"0"
 					"4_width"		"112"
 					"5_hidden"		"0"
@@ -78,7 +78,7 @@
 					"6_hidden"		"0"
 					"6_width"		"90"
 					"7_hidden"		"0"
-					"7_width"		"59"
+					"7_width"		"60"
 					"8_hidden"		"1"
 					"8_width"		"95"
 				}
@@ -159,8 +159,8 @@
 				}
 			}
 		}
-		"xpos"		"480"
-		"ypos"		"190"
+		"xpos"		"684"
+		"ypos"		"202"
 		"wide"		"800"
 		"tall"		"530"
 		"DialogGameInfo"
