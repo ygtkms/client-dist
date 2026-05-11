@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3090432,
+                      "size":  3103744,
                       "filename":  "cstrike.exe",
-                      "hash":  "adbc5c2fd64f38458049e3e3fc5cecf7"
+                      "hash":  "48bcb5312b1e4fa5f760360e1ac610f9"
                   },
                   {
                       "size":  138152,
@@ -98,7 +98,7 @@
                   {
                       "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "9dbe5e88f704f8dbe5f3d316178cdf5d"
+                      "hash":  "4efa88e0e9def90e5987253e147206b6"
                   },
                   {
                       "size":  11143568,
@@ -374,11 +374,6 @@
                       "size":  43,
                       "filename":  "cstrike/steam.inf",
                       "hash":  "c436559cf4f96a9e61eb79c6d8742e12"
-                  },
-                  {
-                      "size":  2,
-                      "filename":  "cstrike/steam_appid.txt",
-                      "hash":  "d3d9446802a44259755d38e6d163e820"
                   },
                   {
                       "size":  25390,
@@ -703,7 +698,7 @@
                   {
                       "size":  2344960,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "a437f1ebfdea3205d7b1cc4973a83869"
+                      "hash":  "23865a6ad242a77b9487a69ab0e075d7"
                   },
                   {
                       "size":  1961732,
@@ -2356,6 +2351,11 @@
                       "hash":  "5c68d7ddaaddaa2578fcc7b7454b781d"
                   },
                   {
+                      "size":  5474816,
+                      "filename":  "cstrike/media/yougamearea_intro_pre1.mp4",
+                      "hash":  "5d970e2902c050abf690f266ce0d8b48"
+                  },
+                  {
                       "size":  787510,
                       "filename":  "cstrike/overviews/as_oilrig.bmp",
                       "hash":  "cb85a3d985771d2f2475180324a98d25"
@@ -2604,56 +2604,6 @@
                       "size":  181,
                       "filename":  "cstrike/overviews/de_vertigo.txt",
                       "hash":  "2835f0bf631f71fd05558e33c9141e83"
-                  },
-                  {
-                      "size":  34,
-                      "filename":  "cstrike/platform/accepted_domains.txt",
-                      "hash":  "49f0570b9379dd65cb0c909d6b4dfdba"
-                  },
-                  {
-                      "size":  65,
-                      "filename":  "cstrike/platform/mmb_home_page.html",
-                      "hash":  "18622e116ad6bd545f881ea467f2e41f"
-                  },
-                  {
-                      "size":  72,
-                      "filename":  "cstrike/platform/config/backend.json",
-                      "hash":  "e9a48fa57d63b476ad7bc1de23b7fb8a"
-                  },
-                  {
-                      "size":  458,
-                      "filename":  "cstrike/platform/config/MasterServer.vdf",
-                      "hash":  "9864c4e27465332d2dc6648813eec7a4"
-                  },
-                  {
-                      "size":  2158,
-                      "filename":  "cstrike/platform/loading/app.js",
-                      "hash":  "05399388f99151aa9fe7b06d124c94b5"
-                  },
-                  {
-                      "size":  895,
-                      "filename":  "cstrike/platform/loading/index.html",
-                      "hash":  "d8d9f0caab34981b419e0ddd2070b665"
-                  },
-                  {
-                      "size":  1362,
-                      "filename":  "cstrike/platform/loading/popup-sample.html",
-                      "hash":  "51b6564d58cfc11a72faed92a56d3157"
-                  },
-                  {
-                      "size":  1786,
-                      "filename":  "cstrike/platform/loading/style.css",
-                      "hash":  "a357ae1d1470588de6cadec291c3a4b9"
-                  },
-                  {
-                      "size":  6533,
-                      "filename":  "cstrike/platform/servers/InternetGamesPage.res",
-                      "hash":  "960ac90ffbb6729c6bed8c0674e038aa"
-                  },
-                  {
-                      "size":  7598,
-                      "filename":  "cstrike/platform/servers/InternetGamesPage_Filters.res",
-                      "hash":  "c6826772c82e26ce941ab1a513f028db"
                   },
                   {
                       "size":  25144,
@@ -24686,6 +24636,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.145",
+    "version":  "1.0.146",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
