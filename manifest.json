@@ -98,7 +98,7 @@
                   {
                       "size":  4468736,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "ac8b8b57b558716bbd9b4a2b129e4645"
+                      "hash":  "9dbe5e88f704f8dbe5f3d316178cdf5d"
                   },
                   {
                       "size":  11143568,
@@ -128,7 +128,7 @@
                   {
                       "size":  256000,
                       "filename":  "steam_api.dll",
-                      "hash":  "ebb05bae76c9ffd977229dbb9ff8b685"
+                      "hash":  "56ffeb17bff1faf748b38055312c1f3f"
                   },
                   {
                       "size":  1134592,
@@ -139,6 +139,11 @@
                       "size":  103920,
                       "filename":  "steam_api_orig.dll",
                       "hash":  "cc3d1ca6401e2ab106733c7bd7489cad"
+                  },
+                  {
+                      "size":  4,
+                      "filename":  "steam_appid.txt",
+                      "hash":  "26eb5c462a98113bc43350c1d1a3a774"
                   },
                   {
                       "size":  357,
@@ -696,9 +701,9 @@
                       "hash":  "1df4dd7cfbe334fb73cb1cbb09ad237b"
                   },
                   {
-                      "size":  2340352,
+                      "size":  2344960,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "c80a687d26f31b8fffd581f5da5aec9b"
+                      "hash":  "a437f1ebfdea3205d7b1cc4973a83869"
                   },
                   {
                       "size":  1961732,
@@ -24681,6 +24686,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.144",
+    "version":  "1.0.145",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
