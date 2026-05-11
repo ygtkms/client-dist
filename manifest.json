@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3103744,
+                      "size":  3105280,
                       "filename":  "cstrike.exe",
-                      "hash":  "48bcb5312b1e4fa5f760360e1ac610f9"
+                      "hash":  "293a452b1fc75203ae826cac624606c1"
                   },
                   {
                       "size":  138152,
@@ -76,6 +76,11 @@
                       "hash":  "045d0f4f41ca53d4cb22bdc814a22b64"
                   },
                   {
+                      "size":  7,
+                      "filename":  "last_update_version.txt",
+                      "hash":  "7a519b48d08687e43f54df77f8d55f2a"
+                  },
+                  {
                       "size":  20320240,
                       "filename":  "libcef.dll",
                       "hash":  "60be2cec0d95bb135d4452f39aac6805"
@@ -96,9 +101,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4468736,
+                      "size":  4487168,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "4efa88e0e9def90e5987253e147206b6"
+                      "hash":  "f48a11a633344efcb00c16f68c457755"
                   },
                   {
                       "size":  11143568,
@@ -698,7 +703,7 @@
                   {
                       "size":  2344960,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "23865a6ad242a77b9487a69ab0e075d7"
+                      "hash":  "3ed0c7348f6fb791b742e643200685c7"
                   },
                   {
                       "size":  1961732,
@@ -24636,6 +24641,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.146",
+    "version":  "1.0.147",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
