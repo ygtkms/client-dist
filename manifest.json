@@ -43,7 +43,7 @@
                   {
                       "size":  3105280,
                       "filename":  "cstrike.exe",
-                      "hash":  "11c4f85bfab4022aadd41812e39a7755"
+                      "hash":  "3d6493e9a5c571ec645b52d5796a4030"
                   },
                   {
                       "size":  138152,
@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "8a4a0287d6e531ae0ac48b9538fbb00f"
+                      "hash":  "1bd6d8fb608981d3a4e47319e48a5ed9"
                   },
                   {
                       "size":  20320240,
@@ -103,7 +103,7 @@
                   {
                       "size":  4492288,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "6f0855cf66049ec16615f358d8d79427"
+                      "hash":  "deb84873e11b8d0b8c2a8e9bda970691"
                   },
                   {
                       "size":  11143568,
@@ -111,9 +111,9 @@
                       "hash":  "1e6d13e7cb7ef78f578f6d9a0a369fac"
                   },
                   {
-                      "size":  3193344,
+                      "size":  3200000,
                       "filename":  "nitro_api2.dll",
-                      "hash":  "55e7dc0582820b7a3c4cb5306c8662af"
+                      "hash":  "ed29c10f2bffd87f01e0ff2e9c9b2a07"
                   },
                   {
                       "size":  134144,
@@ -696,14 +696,14 @@
                       "hash":  "2514c65e9b3661f75201fc5d594b4b1c"
                   },
                   {
-                      "size":  314368,
+                      "size":  315392,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "1df4dd7cfbe334fb73cb1cbb09ad237b"
+                      "hash":  "eee7104fb3d471c4a657cb961eff5c46"
                   },
                   {
-                      "size":  2347520,
+                      "size":  2393088,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "f0b0c2d874d7511b2e9e9054941209ea"
+                      "hash":  "6d6abdf1edab1daebf0f6ede64392028"
                   },
                   {
                       "size":  1961732,
@@ -6384,6 +6384,11 @@
                       "size":  216,
                       "filename":  "platform/config/serverbrowser.dat",
                       "hash":  "d95f19b20a055f28d0385c8cb93e2a96"
+                  },
+                  {
+                      "size":  38,
+                      "filename":  "platform/config/survey_embed_base.txt",
+                      "hash":  "6d79f5edf03b7a420621fc8031f2ff54"
                   },
                   {
                       "size":  2158,
@@ -24641,6 +24646,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.150",
+    "version":  "1.0.151",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
