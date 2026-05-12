@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "0dfd58acb17234fbe23763f8c8cb59e4"
+                      "hash":  "8352d5d2fd56eb3cf3612a4b331bfd67"
                   },
                   {
                       "size":  20320240,
@@ -341,9 +341,9 @@
                       "hash":  "1dadc43cb13c0e3faf12185034afeb9a"
                   },
                   {
-                      "size":  165,
+                      "size":  195,
                       "filename":  "cstrike/MiscellaneousSettings.vdf",
-                      "hash":  "c33d2a2c265eb23400af11cfbe4779df"
+                      "hash":  "bd42fb139ab6903c4834445e17944b5a"
                   },
                   {
                       "size":  147184,
@@ -701,9 +701,9 @@
                       "hash":  "eee7104fb3d471c4a657cb961eff5c46"
                   },
                   {
-                      "size":  2394112,
+                      "size":  2394624,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "9f7a063391d93c7c23599ac4bd0aa970"
+                      "hash":  "49ebec67d7101adf9e7b3fb6f96bf5d7"
                   },
                   {
                       "size":  1961732,
@@ -2726,9 +2726,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  4687,
+                      "size":  5308,
                       "filename":  "cstrike/resource/OptionsSubMiscellaneous.res",
-                      "hash":  "1350886426d6331379e155e6e56b023f"
+                      "hash":  "b17e9685debdf6ebb4ef96673183a821"
                   },
                   {
                       "size":  6115,
@@ -24646,6 +24646,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.155",
+    "version":  "1.0.156",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
