@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "8352d5d2fd56eb3cf3612a4b331bfd67"
+                      "hash":  "e0e148614e5cf34e1bbb7bded8e70026"
                   },
                   {
                       "size":  20320240,
@@ -343,7 +343,7 @@
                   {
                       "size":  195,
                       "filename":  "cstrike/MiscellaneousSettings.vdf",
-                      "hash":  "bd42fb139ab6903c4834445e17944b5a"
+                      "hash":  "21ff2963e4ebb92b7e23cf748e0b16e4"
                   },
                   {
                       "size":  147184,
@@ -701,9 +701,9 @@
                       "hash":  "eee7104fb3d471c4a657cb961eff5c46"
                   },
                   {
-                      "size":  2394624,
+                      "size":  2400256,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "49ebec67d7101adf9e7b3fb6f96bf5d7"
+                      "hash":  "69058ca04590c0a97f7843a6b4718ab0"
                   },
                   {
                       "size":  1961732,
@@ -24646,6 +24646,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.156",
+    "version":  "1.0.157",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
