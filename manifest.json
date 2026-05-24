@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "486fcc2fc930dbe16f1d058dedea6731"
+                      "hash":  "f2a209b2413ffc7f4a9c43d8607ec648"
                   },
                   {
                       "size":  20320240,
@@ -701,9 +701,9 @@
                       "hash":  "4f4a37c09d589feac1b47ad78592d01c"
                   },
                   {
-                      "size":  2490880,
+                      "size":  2491904,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "ae6625d3217d4acc8e79b2097ce70f89"
+                      "hash":  "9556397ce38dad0ecd82a8362e64dd5e"
                   },
                   {
                       "size":  1961732,
@@ -24646,6 +24646,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.164",
+    "version":  "1.0.165",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
