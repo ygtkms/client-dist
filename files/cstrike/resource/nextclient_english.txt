@@ -50,6 +50,7 @@ Available branches:"
 "GameUI_FovAngle"                   "FOV angle"
 "GameUI_FovViewModelAngle"          "FOV angle for view model"
 "GameUI_FovLerp"                    "FOV changes smooth time"
+"GameUI_EnhancedViewMotion"         "View sway (strafe tilt and bob)"
 "GameUI_DisableMultitexture"        "Disable multitexturing"
 "GameUI_StretchAspect"              "Stretch aspect"
 

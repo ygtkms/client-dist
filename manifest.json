@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "26a5bee76dbecf445c76fbfe348282bb"
+                      "hash":  "f14d67b797fb733903638cea06ec90b8"
                   },
                   {
                       "size":  20320240,
@@ -696,14 +696,14 @@
                       "hash":  "2514c65e9b3661f75201fc5d594b4b1c"
                   },
                   {
-                      "size":  315392,
+                      "size":  314368,
                       "filename":  "cstrike/cl_dlls/client_mini.dll",
-                      "hash":  "4f4a37c09d589feac1b47ad78592d01c"
+                      "hash":  "c38981301a3968c3a1fb191744e6c6c2"
                   },
                   {
-                      "size":  2498048,
+                      "size":  2498560,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "432c15873ebf63ab30e870570522b366"
+                      "hash":  "81cf16e0327a33048b782da67111d91c"
                   },
                   {
                       "size":  2498048,
@@ -2696,9 +2696,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2566,
+                      "size":  2637,
                       "filename":  "cstrike/resource/nextclient_english.txt",
-                      "hash":  "08c9e6bd37d93e99942158cd0c977cd6"
+                      "hash":  "52ae566d677497350a5ca1208259a8b5"
                   },
                   {
                       "size":  4926,
@@ -2721,9 +2721,9 @@
                       "hash":  "8c7bd35c7090f1f996c8c29cb18b85ee"
                   },
                   {
-                      "size":  2572,
+                      "size":  2652,
                       "filename":  "cstrike/resource/nextclient_turkish.txt",
-                      "hash":  "816dc6d30d3152b4a0a6f750657bf71f"
+                      "hash":  "e74c4325307a5cc492f115cc9bd4f4ce"
                   },
                   {
                       "size":  4926,
@@ -2766,9 +2766,9 @@
                       "hash":  "bf06a7cac3905a3274090c7bcf8f0611"
                   },
                   {
-                      "size":  8597,
+                      "size":  9277,
                       "filename":  "cstrike/resource/VideoAvancedDialog.res",
-                      "hash":  "655ba5af1da8cfe068205cfd0bcb4963"
+                      "hash":  "8aa49b74190e76cd9f415310dfdbac4e"
                   },
                   {
                       "size":  196652,
@@ -24651,6 +24651,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.170",
+    "version":  "1.0.171",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
