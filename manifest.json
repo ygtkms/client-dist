@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "f4b39d402ff4c67183cc3116e5c5ac0c"
+                      "hash":  "5256d13fce437884cb13fe6209db2621"
                   },
                   {
                       "size":  20320240,
@@ -343,7 +343,7 @@
                   {
                       "size":  195,
                       "filename":  "cstrike/MiscellaneousSettings.vdf",
-                      "hash":  "21ff2963e4ebb92b7e23cf748e0b16e4"
+                      "hash":  "bd42fb139ab6903c4834445e17944b5a"
                   },
                   {
                       "size":  147184,
@@ -701,9 +701,9 @@
                       "hash":  "c38981301a3968c3a1fb191744e6c6c2"
                   },
                   {
-                      "size":  2542080,
+                      "size":  2580480,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "79f9abcc660d4d7a704978f4fb37228b"
+                      "hash":  "0b9fd7bf518ead05ed598dfafa581754"
                   },
                   {
                       "size":  2498048,
@@ -2358,6 +2358,11 @@
                   {
                       "size":  2773509,
                       "filename":  "cstrike/media/gamestartup.mp3",
+                      "hash":  "5c68d7ddaaddaa2578fcc7b7454b781d"
+                  },
+                  {
+                      "size":  2773509,
+                      "filename":  "cstrike/media/gamestartup_v1.mp3",
                       "hash":  "5c68d7ddaaddaa2578fcc7b7454b781d"
                   },
                   {
@@ -5444,6 +5449,51 @@
                       "size":  1854,
                       "filename":  "cstrike/sprites/effects/snowflake.spr",
                       "hash":  "8900e8d01b527c6a8ebc65136c407499"
+                  },
+                  {
+                      "size":  0,
+                      "filename":  "cstrike/themes/.gitkeep",
+                      "hash":  "d41d8cd98f00b204e9800998ecf8427e"
+                  },
+                  {
+                      "size":  20186,
+                      "filename":  "cstrike/themes/dark_turuncu/ClientScheme.res",
+                      "hash":  "ad608477b5f8bf6c7bb598156bc7db6e"
+                  },
+                  {
+                      "size":  10728,
+                      "filename":  "cstrike/themes/dark_turuncu/TrackerScheme.res",
+                      "hash":  "238dd82fcdd8ffe581cf66b44f234695"
+                  },
+                  {
+                      "size":  20185,
+                      "filename":  "cstrike/themes/graphite_gray/ClientScheme.res",
+                      "hash":  "72b5b99f968b7f605f511b3f061ee2a2"
+                  },
+                  {
+                      "size":  10724,
+                      "filename":  "cstrike/themes/graphite_gray/TrackerScheme.res",
+                      "hash":  "5eb568f4e7c245ff987a2786b2d87d5c"
+                  },
+                  {
+                      "size":  20202,
+                      "filename":  "cstrike/themes/night_blue/ClientScheme.res",
+                      "hash":  "62ae333630e5b301c1e9d79dbca52d5e"
+                  },
+                  {
+                      "size":  10732,
+                      "filename":  "cstrike/themes/night_blue/TrackerScheme.res",
+                      "hash":  "857802b3419072f44ae4f84efccd2447"
+                  },
+                  {
+                      "size":  20197,
+                      "filename":  "cstrike/themes/tactical_green/ClientScheme.res",
+                      "hash":  "1488e5cad2fee9065c65d1919be868b8"
+                  },
+                  {
+                      "size":  10732,
+                      "filename":  "cstrike/themes/tactical_green/TrackerScheme.res",
+                      "hash":  "13a8ccd0bf6b6255c42efe4450558ac6"
                   },
                   {
                       "size":  65580,
@@ -24651,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.178",
+    "version":  "1.0.179",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }

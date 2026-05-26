@@ -4,5 +4,5 @@
 	"ServerBrowserInitialTab"		"0"
 	"Scheme"		"TrackerScheme_ClassicPlus.res"
 	"EnableDiscordRpc"		"1"
-	"EnableBackgroundMusic"		"0"
+	"EnableBackgroundMusic"		"1"
 }
