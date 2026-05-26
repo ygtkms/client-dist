@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3142656,
+                      "size":  3139584,
                       "filename":  "cstrike.exe",
-                      "hash":  "cf65cbb0bb2e1e6ef076209331d70a3f"
+                      "hash":  "5cba99ee63e6aa48a2f6f9c2f7f81b48"
                   },
                   {
                       "size":  138152,
@@ -76,16 +76,6 @@
                       "hash":  "045d0f4f41ca53d4cb22bdc814a22b64"
                   },
                   {
-                      "size":  154829,
-                      "filename":  "last_update_manifest_paths.txt",
-                      "hash":  "d8510cd92b28c1b511e200a80d3127d3"
-                  },
-                  {
-                      "size":  7,
-                      "filename":  "last_update_version.txt",
-                      "hash":  "5985e8e2ce760176f7d35ac933c5da94"
-                  },
-                  {
                       "size":  20320240,
                       "filename":  "libcef.dll",
                       "hash":  "60be2cec0d95bb135d4452f39aac6805"
@@ -106,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4497408,
+                      "size":  4494848,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "6fce18cfc1bf90d2eb1eaf71b578d778"
+                      "hash":  "d7dbfe3fb695fed45c8e4bca84be1a12"
                   },
                   {
                       "size":  11143568,
@@ -24711,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.194",
+    "version":  "1.0.195",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
