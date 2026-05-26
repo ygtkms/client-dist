@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "f8d5ad3270b011c6b9e4d33d7b9849c3"
+                      "hash":  "30a58ed56b34c93fbeeb0e0eee37a564"
                   },
                   {
                       "size":  20320240,
@@ -24651,6 +24651,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.176",
+    "version":  "1.0.177",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
