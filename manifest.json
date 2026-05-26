@@ -5946,11 +5946,6 @@
                       "hash":  "9a4a3792f497ea9e37114c20856ed392"
                   },
                   {
-                      "size":  16,
-                      "filename":  "enes/neden-bay-anderson-neden.txt",
-                      "hash":  "ce8cb04130e69ee59cf9355fe71eaf89"
-                  },
-                  {
                       "size":  7168,
                       "filename":  "htmlcache/Cookies",
                       "hash":  "9b2572c8893e490bec2b44d908c02680"
@@ -24706,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.192",
+    "version":  "1.0.193",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
