@@ -76,11 +76,6 @@
                       "hash":  "045d0f4f41ca53d4cb22bdc814a22b64"
                   },
                   {
-                      "size":  7,
-                      "filename":  "last_update_version.txt",
-                      "hash":  "58156be13857e91321ee5fff6005051c"
-                  },
-                  {
                       "size":  20320240,
                       "filename":  "libcef.dll",
                       "hash":  "60be2cec0d95bb135d4452f39aac6805"
@@ -24711,6 +24706,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.185",
+    "version":  "1.0.186",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
