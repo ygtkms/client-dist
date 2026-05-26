@@ -83,7 +83,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "184dfdb2bbd55caa5381cdebc85c7284"
+                      "hash":  "88b546cfb4581950b59766e0d8f254b9"
                   },
                   {
                       "size":  20320240,
@@ -5954,6 +5954,11 @@
                       "size":  1935400,
                       "filename":  "cstrike_hd/models/player/vip/vip.mdl",
                       "hash":  "9a4a3792f497ea9e37114c20856ed392"
+                  },
+                  {
+                      "size":  16,
+                      "filename":  "enes/neden-bay-anderson-neden.txt",
+                      "hash":  "ce8cb04130e69ee59cf9355fe71eaf89"
                   },
                   {
                       "size":  7168,
@@ -24711,6 +24716,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.183",
+    "version":  "1.0.184",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
