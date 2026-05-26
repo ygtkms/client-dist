@@ -41,14 +41,19 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3105280,
+                      "size":  3139072,
                       "filename":  "cstrike.exe",
-                      "hash":  "6ec8874f69202e134a07c772045f8e60"
+                      "hash":  "45ac3a0842735edcd7c4a3ed36ad1cde"
                   },
                   {
                       "size":  138152,
                       "filename":  "DemoPlayer.dll",
                       "hash":  "641d3c2c5ea5d97b4d4f8f51f4c8fe3e"
+                  },
+                  {
+                      "size":  0,
+                      "filename":  "enes1.txt",
+                      "hash":  "d41d8cd98f00b204e9800998ecf8427e"
                   },
                   {
                       "size":  124928,
@@ -78,7 +83,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "90b2fce480d44b1c0aec951bee498864"
+                      "hash":  "1dc7e0afa55a464ca2283316fddc9743"
                   },
                   {
                       "size":  20320240,
@@ -2361,9 +2366,9 @@
                       "hash":  "f40d3688b442da8aa49d027e37c92193"
                   },
                   {
-                      "size":  2773509,
+                      "size":  5674840,
                       "filename":  "cstrike/media/gamestartup.mp3",
-                      "hash":  "5c68d7ddaaddaa2578fcc7b7454b781d"
+                      "hash":  "f4b2fd526584e953fcde4bce870b2d32"
                   },
                   {
                       "size":  2773509,
@@ -24706,6 +24711,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.181",
+    "version":  "1.0.182",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
