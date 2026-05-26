@@ -51,11 +51,6 @@
                       "hash":  "641d3c2c5ea5d97b4d4f8f51f4c8fe3e"
                   },
                   {
-                      "size":  0,
-                      "filename":  "enes1.txt",
-                      "hash":  "d41d8cd98f00b204e9800998ecf8427e"
-                  },
-                  {
                       "size":  124928,
                       "filename":  "FileSystem_Proxy.dll",
                       "hash":  "37205214d4b661d05f444a2a51ad5bb6"
@@ -83,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "88b546cfb4581950b59766e0d8f254b9"
+                      "hash":  "58156be13857e91321ee5fff6005051c"
                   },
                   {
                       "size":  20320240,
@@ -24716,6 +24711,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.184",
+    "version":  "1.0.185",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
