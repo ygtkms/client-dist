@@ -78,7 +78,7 @@
                   {
                       "size":  7,
                       "filename":  "last_update_version.txt",
-                      "hash":  "5256d13fce437884cb13fe6209db2621"
+                      "hash":  "515120497d803ee612c12d5a98769cd3"
                   },
                   {
                       "size":  20320240,
@@ -701,9 +701,9 @@
                       "hash":  "c38981301a3968c3a1fb191744e6c6c2"
                   },
                   {
-                      "size":  2580480,
+                      "size":  2580992,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "0b9fd7bf518ead05ed598dfafa581754"
+                      "hash":  "1bbafa8e9d8f9fbff23e14a775b7b41c"
                   },
                   {
                       "size":  2498048,
@@ -1959,6 +1959,11 @@
                       "size":  20204,
                       "filename":  "cstrike/gfx/vgui2/logo_steam.tga",
                       "hash":  "8b24a9c4a7e994479142e660aa0b3a1a"
+                  },
+                  {
+                      "size":  5170,
+                      "filename":  "cstrike/logos/deneme.bmp",
+                      "hash":  "f54b976f0f1fa498b20c40ae0be5ed0f"
                   },
                   {
                       "size":  82840,
@@ -24701,6 +24706,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.179",
+    "version":  "1.0.180",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
