@@ -401,11 +401,6 @@
                       "hash":  "4352d88a78aa39750bf70cd6f27bcaa5"
                   },
                   {
-                      "size":  0,
-                      "filename":  "cstrike/x1.txt",
-                      "hash":  "d41d8cd98f00b204e9800998ecf8427e"
-                  },
-                  {
                       "size":  6900,
                       "filename":  "cstrike/classes/ak47.res",
                       "hash":  "9ba15b0ade9ef03c9dcd3de779c80c05"
@@ -24706,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.200",
+    "version":  "1.0.201",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
