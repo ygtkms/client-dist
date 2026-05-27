@@ -96,9 +96,9 @@
                       "hash":  "ac55930ed33d9c3a6af4d398af5a9c89"
                   },
                   {
-                      "size":  4494848,
+                      "size":  4497408,
                       "filename":  "next_engine_mini.dll",
-                      "hash":  "d7dbfe3fb695fed45c8e4bca84be1a12"
+                      "hash":  "98b6091a3c9de3d9e383b14495f91f48"
                   },
                   {
                       "size":  11143568,
@@ -24701,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.197",
+    "version":  "1.0.198",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
