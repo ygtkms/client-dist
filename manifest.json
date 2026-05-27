@@ -256,6 +256,11 @@
                       "hash":  "bd89a92a586273093e020cac5e858cc4"
                   },
                   {
+                      "size":  9,
+                      "filename":  "cstrike/d1.txt",
+                      "hash":  "493a55800e9fd38c2ccca10955b5f20b"
+                  },
+                  {
                       "size":  960012,
                       "filename":  "cstrike/decals.wad",
                       "hash":  "4b2cad46eccbceadeb82cd4c417e323b"
@@ -24701,6 +24706,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.201",
+    "version":  "1.0.202",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
