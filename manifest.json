@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3139584,
+                      "size":  3142144,
                       "filename":  "cstrike.exe",
-                      "hash":  "5cba99ee63e6aa48a2f6f9c2f7f81b48"
+                      "hash":  "e5a52c50bddacc52d2f2c4b48e8bd943"
                   },
                   {
                       "size":  138152,
@@ -24701,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.196",
+    "version":  "1.0.197",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
