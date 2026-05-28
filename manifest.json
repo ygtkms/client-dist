@@ -46,11 +46,6 @@
                       "hash":  "e5a52c50bddacc52d2f2c4b48e8bd943"
                   },
                   {
-                      "size":  9,
-                      "filename":  "d1.txt",
-                      "hash":  "493a55800e9fd38c2ccca10955b5f20b"
-                  },
-                  {
                       "size":  138152,
                       "filename":  "DemoPlayer.dll",
                       "hash":  "641d3c2c5ea5d97b4d4f8f51f4c8fe3e"
@@ -701,9 +696,9 @@
                       "hash":  "c38981301a3968c3a1fb191744e6c6c2"
                   },
                   {
-                      "size":  2592768,
+                      "size":  2593280,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "129618d4e076cbaa30492ce1d015a7b3"
+                      "hash":  "1aa254fcb84f72cb87cd695a48b29b73"
                   },
                   {
                       "size":  2498048,
@@ -24706,6 +24701,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.206",
+    "version":  "1.0.207",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
