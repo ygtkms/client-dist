@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3142656,
+                      "size":  3144192,
                       "filename":  "cstrike.exe",
-                      "hash":  "0fbd250f52ec39005003b3a534d7eff3"
+                      "hash":  "2767d05e9fd49ba67f2894aca74b9243"
                   },
                   {
                       "size":  138152,
@@ -169,6 +169,11 @@
                       "size":  331264,
                       "filename":  "vstdlib.dll",
                       "hash":  "866e49fc80c2b7500334a716b177afad"
+                  },
+                  {
+                      "size":  289280,
+                      "filename":  "yougamearea.dll",
+                      "hash":  "3f6ea90cc7ea1acb075b9c10b4078767"
                   },
                   {
                       "size":  48456,
@@ -698,7 +703,7 @@
                   {
                       "size":  2609152,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "9282fe75abf4f752c8cd760ab91d7daa"
+                      "hash":  "7b123c89ee35e65511ae0bc5a77f02d3"
                   },
                   {
                       "size":  1961732,
@@ -6409,11 +6414,6 @@
                       "size":  65,
                       "filename":  "platform/mmb_home_page.html",
                       "hash":  "18622e116ad6bd545f881ea467f2e41f"
-                  },
-                  {
-                      "size":  27,
-                      "filename":  "platform/update_test_marker.txt",
-                      "hash":  "0fae8bf7ecad893f5b1f880bc4d58bb8"
                   },
                   {
                       "size":  72,
@@ -24696,6 +24696,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.221",
+    "version":  "1.0.222",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
