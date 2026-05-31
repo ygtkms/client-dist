@@ -176,11 +176,6 @@
                       "hash":  "dbf85d32838f000b3f822fc040fb6551"
                   },
                   {
-                      "size":  374784,
-                      "filename":  "yougamearea.dll.bak_011738",
-                      "hash":  "4f93181c42f3907fb437253508b0b3bf"
-                  },
-                  {
                       "size":  48456,
                       "filename":  "cstrike/ajawad.wad",
                       "hash":  "400ca686fc962aa9265a7e674cef4235"
@@ -24701,6 +24696,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.229",
+    "version":  "1.0.230",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
