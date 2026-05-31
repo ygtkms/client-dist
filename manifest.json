@@ -173,7 +173,7 @@
                   {
                       "size":  374784,
                       "filename":  "yougamearea.dll",
-                      "hash":  "6e8a616fc7e3fa392370a3c40b562ff0"
+                      "hash":  "4f93181c42f3907fb437253508b0b3bf"
                   },
                   {
                       "size":  48456,
@@ -24696,6 +24696,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.227",
+    "version":  "1.0.228",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
