@@ -41,9 +41,9 @@
                       "hash":  "5cdf1093b0a9706988f9393ebabe340d"
                   },
                   {
-                      "size":  3147264,
+                      "size":  3150336,
                       "filename":  "cstrike.exe",
-                      "hash":  "92c16f641f5f48224a1427becb99dc52"
+                      "hash":  "5e5aaa469b3d03cf99893d3d9aed645f"
                   },
                   {
                       "size":  138152,
@@ -206,11 +206,6 @@
                       "hash":  "edceb0fe92d7c3fe0247bbf76fca620c"
                   },
                   {
-                      "size":  429,
-                      "filename":  "cstrike/CSBotConfig.vdf",
-                      "hash":  "38bc195b1908fe8f2f3d3f4e121e37af"
-                  },
-                  {
                       "size":  161368,
                       "filename":  "cstrike/cstraining.wad",
                       "hash":  "a17592ad0f7e8a4aa2a2211ef801629c"
@@ -311,11 +306,6 @@
                       "hash":  "28615c163dcea9116d126de2ef235674"
                   },
                   {
-                      "size":  1777,
-                      "filename":  "cstrike/GameServerConfig.vdf",
-                      "hash":  "6330a74c8b639027098356beafb2403c"
-                  },
-                  {
                       "size":  176,
                       "filename":  "cstrike/game_init.cfg",
                       "hash":  "f7be1c8dacdb6b77b5a2fdebcdeb199a"
@@ -341,11 +331,6 @@
                       "hash":  "1dadc43cb13c0e3faf12185034afeb9a"
                   },
                   {
-                      "size":  195,
-                      "filename":  "cstrike/MiscellaneousSettings.vdf",
-                      "hash":  "bd42fb139ab6903c4834445e17944b5a"
-                  },
-                  {
                       "size":  147184,
                       "filename":  "cstrike/n0th1ng.wad",
                       "hash":  "0066896ca4b2087f286d7ae32dd5a329"
@@ -359,11 +344,6 @@
                       "size":  1550,
                       "filename":  "cstrike/rebuy.txt",
                       "hash":  "59884a76b2229c7677ab89ab77655f5c"
-                  },
-                  {
-                      "size":  537,
-                      "filename":  "cstrike/ServerBrowser.vdf",
-                      "hash":  "18e97b9eb1b0895b6e2e17629f63d75d"
                   },
                   {
                       "size":  1176,
@@ -394,11 +374,6 @@
                       "size":  1555168,
                       "filename":  "cstrike/tswad.wad",
                       "hash":  "27dba30a70ff8172fbc55a20c89a63e3"
-                  },
-                  {
-                      "size":  53,
-                      "filename":  "cstrike/VideoAdvancedSettings.vdf",
-                      "hash":  "888feecbd95ba07e0f4713e901eb0075"
                   },
                   {
                       "size":  4,
@@ -703,7 +678,7 @@
                   {
                       "size":  2617856,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "30581c0da2172917cfd2e1a4e1423a54"
+                      "hash":  "9856404be4064a08330eaf694f1d6ea0"
                   },
                   {
                       "size":  1961732,
@@ -7004,11 +6979,6 @@
                       "size":  1593,
                       "filename":  "valve/game.tga",
                       "hash":  "aefbbd8023f2a2f7f38f7773a2b20032"
-                  },
-                  {
-                      "size":  566,
-                      "filename":  "valve/GameServerConfig.vdf",
-                      "hash":  "c1affbd62f30e10bc18c0e7feca9fc01"
                   },
                   {
                       "size":  86608,
@@ -24696,6 +24666,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.245",
+    "version":  "1.0.246",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
