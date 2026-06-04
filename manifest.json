@@ -678,7 +678,7 @@
                   {
                       "size":  2617856,
                       "filename":  "cstrike/cl_dlls/GameUI.dll",
-                      "hash":  "ea69296ee139a028de2de3832eac6096"
+                      "hash":  "a933e58fa81eb119ed81701321f0e325"
                   },
                   {
                       "size":  1961732,
@@ -1934,6 +1934,11 @@
                       "size":  5170,
                       "filename":  "cstrike/logos/deneme.bmp",
                       "hash":  "f54b976f0f1fa498b20c40ae0be5ed0f"
+                  },
+                  {
+                      "size":  5176,
+                      "filename":  "cstrike/logos/lambda.bmp",
+                      "hash":  "1876018802412e395418d9abdbc3b062"
                   },
                   {
                       "size":  82840,
@@ -24666,6 +24671,6 @@
                       "hash":  "d52e4ae53f207e89f9984290f6d43deb"
                   }
               ],
-    "version":  "1.0.248",
+    "version":  "1.0.249",
     "hostname":  "https://raw.githubusercontent.com/ygtkms/client-dist/main/files/"
 }
